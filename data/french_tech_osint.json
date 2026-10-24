@@ -1,0 +1,263 @@
+{
+  "researched_at": "2026-10-25",
+  "methods": ["Tavily search/extract", "Bright Data SERP", "sources officielles Mission FT / Business France / FTB"],
+  "disclaimer": "Synthèse OSINT documentaire — pas un conseil juridique. Reconfirmer listes incubateurs et contacts avant dépôt.",
+  "fit_dina": {
+    "profile": "Fondatrice non-UE (Athènes) · produit DinaResearch live · SNEE Pépite NA · M2IE Poitiers · cible Talent L.421-16 2°",
+    "why_ft": "Le French Tech Visa for Founders est le branding / procédure simplifiée du Passeport Talent « projet économique innovant » — exact rail P0 du dossier.",
+    "innovation_match": "La définition officielle (demarches) couvre innovation de produit, service, usage, modèle d’affaires — alignée plateforme intel marché + AI.",
+    "geo_match": "Ancrage Nouvelle-Aquitaine (Pépite Poitiers) → Capitale French Tech Bordeaux + incubateurs NA cités historiquement par FTB.",
+    "athens_match": "Communauté French Tech Athens existe (pont FR–GR) — réseau local Athènes, pas substitut DRIEETS."
+  },
+  "what_is_french_tech": {
+    "mission": "Mission French Tech (État) — structure et croît l’écosystème startups FR + attractivité talents internationaux.",
+    "network_2026": {
+      "capitales": 19,
+      "communautes_fr": 28,
+      "communautes_intl": "78 (sources Mission FT) / ~69 dans 52 pays (Campus France 2025)",
+      "total_structures": "~125 labellisées"
+    },
+    "not_an_incubator": "Une Capitale / Communauté FT n’est PAS un incubateur : elle oriente, fédère, peut soutenir (lettre Capitale) et anime le réseau.",
+    "official_site": "https://lafrenchtech.gouv.fr/",
+    "visa_page": "https://lafrenchtech.gouv.fr/fr/venir-travailler-en-france/french-tech-visa/"
+  },
+  "three_visa_tracks": [
+    {
+      "id": "founders",
+      "name": "French Tech Visa for Founders",
+      "for_dina": "PRIORITAIRE",
+      "legal": "CESEDA L.421-16 2° — Talent porteur de projet économique innovant",
+      "who": "Fondateurs hors UE/EEE/Suisse (régime algérien spécifique / souvent exclu du FT Visa classique)",
+      "needs": [
+        "Projet économique innovant à développer en France",
+        "Reconnaissance organisme public (pratique = attestation DRIEETS IDF)",
+        "Ressources ≥ SMIC annuel brut : 22 404,20 € au 01/06/2026"
+      ],
+      "no_30k": true,
+      "duration": "Jusqu’à 4 ans, renouvelable ; ou VLS-TS Talent ≤ 12 mois puis titre",
+      "family": "Conjoint + enfants mineurs — Talent famille (conjoint peut travailler)",
+      "guide_url": "https://welcome.businessfrance.fr/simplanter-en-france/recruter-des-talents-internationaux/visas-et-titres-de-sejour/les-statuts-des-dirigeants-etrangers/french-tech-visa-for-founders/"
+    },
+    {
+      "id": "employees",
+      "name": "French Tech Visa for Employees",
+      "for_dina": "ALTERNATIVE (si recrutement startup innovante FR)",
+      "note": "L’employeur FR doit être « entreprise innovante » (1 des 3 critères) + SIRET. Pas le rail Founders.",
+      "guide_url": "https://welcome.businessfrance.fr/simplanter-en-france/recruter-des-talents-internationaux/visas-et-titres-de-sejour/recrutement-salaries-etrangers/french-tech-visa-for-employees/"
+    },
+    {
+      "id": "investors",
+      "name": "French Tech Visa for Investors",
+      "for_dina": "NON (seuil investissement ≥ 300 k€ + emplois)",
+      "guide_url": "https://welcome.businessfrance.fr/simplanter-en-france/recruter-des-talents-internationaux/visas-et-titres-de-sejour/les-statuts-des-dirigeants-etrangers/french-tech-visa-for-investors/"
+    }
+  ],
+  "founders_recognition_routes": {
+    "note": "Trois portes d’entrée avant dépôt demarches (Business France, vérifié 08/06/2026).",
+    "routes": [
+      {
+        "id": "incubator",
+        "title": "Incubateur / accélérateur partenaire French Tech",
+        "detail": "Sélection par structure partenaire FT. Liste publique officielle souvent absente / retirée (constat OSINT oct. 2026) → demander confirmation écrite « partenaire French Tech Visa Founders ».",
+        "na_historical_ftb": ["Héméra", "Village by CA Aquitaine", "Unitec", "Technowest"],
+        "na_source": "French Tech Bordeaux — article « Le nouveau French Tech Visa » (liste NA pour critères entreprise innovante / accompagnement ; utile comme cible prioritaire).",
+        "form_accepts": "Justificatif affiliation incubateur référencé FT ; OU lettre de soutien si incubateur non référencé."
+      },
+      {
+        "id": "capitale",
+        "title": "Soutien d’une Capitale French Tech",
+        "detail": "Programme / incubateur soutenu par une Capitale, ou lettre Capitale. Pour Dina : French Tech Bordeaux (Capitale NA).",
+        "contact": "contact@frenchtechbordeaux.com",
+        "website": "https://www.frenchtechbordeaux.com/"
+      },
+      {
+        "id": "two_letters",
+        "title": "2 lettres d’acteurs de l’écosystème French Tech",
+        "detail": "Organismes de recherche, laboratoires, personnalités qualifiées, entreprises, etc. DRIEETS a confirmé par écrit (cas publics) : sans incubateur → au moins 2 lettres (labos FR / univ FR / entreprises FR liées FT).",
+        "quality": "Lettres spécifiques (technologie, marché FR, collaboration) — pas un encouragement vague.",
+        "dina_candidates": [
+          "Pépite Nord-Aquitain (pepite@univ-poitiers.fr) — lettre écosystème FT",
+          "Enseignant-chercheur M2IE (ex. Moinet) / IAE",
+          "Acteur IE / startup / alumni Deloitte FR si lien FT"
+        ]
+      }
+    ]
+  },
+  "innovation_definition_official": {
+    "source": "demarche.numerique.gouv.fr — french-tech-visa-for-founders",
+    "text_fr": "Projet visant à mettre sur le marché un produit (bien ou service) ou un procédé nouveau ou sensiblement amélioré, une nouvelle méthode de commercialisation ou organisationnelle — innovation technologique, produit, service, usage, procédé, organisation, marketing/commerciale, modèle d’affaires ou sociale.",
+    "company_status": "La société peut ne pas encore exister juridiquement, ou être déjà immatriculée à l’étranger.",
+    "dina_claim": "DinaResearch = service d’information marché structuré + usage data/AI + modèle intel premium — rentre dans innovation large (service / usage / modèle)."
+  },
+  "process_steps": [
+    {
+      "step": 1,
+      "title": "Reconnaissance écosystème",
+      "actions": ["Candidater incubateurs NA (Unitec, Technowest, Héméra, Village CA)", "ET/OU 2 lettres", "ET/OU contacter Capitale Bordeaux"]
+    },
+    {
+      "step": 2,
+      "title": "Dépôt attestation innovante",
+      "url": "https://www.demarches-simplifiees.fr/commencer/french-tech-visa-for-founders",
+      "also": "https://demarche.numerique.gouv.fr/commencer/french-tech-visa-for-founders",
+      "instructor": "DRIEETS Île-de-France (pour TOUTE la France)",
+      "email": "drieets-idf.passeports-talent@drieets.gouv.fr",
+      "delay_practice": "Dossier complet : quelques jours à ~2–4 semaines ; incomplet : jusqu’à ~2 mois"
+    },
+    {
+      "step": 3,
+      "title": "Visa / titre Talent",
+      "actions": [
+        "Depuis Athènes : France-Visas + RDV consulat (admin-etrangers.athenes-amba@diplomatie.gouv.fr)",
+        "Joindre attestation DRIEETS + pack projet + ressources (oncle)",
+        "Frais indicatifs : visa 99 € + taxe titre 300 € + timbre 50 €"
+      ],
+      "checklist_pdf": "https://welcome.businessfrance.fr/wp-content/uploads/2026/07/2_-Dirigeant_documents_talent_french_tech_visa_founders_juillet2026.pdf"
+    },
+    {
+      "step": 4,
+      "title": "Arrivée France",
+      "actions": ["Valider VLS-TS en ligne si applicable", "Finaliser titre sur ANEF / préfecture"]
+    }
+  ],
+  "organisms": [
+    {
+      "id": "mission_ft",
+      "name": "Mission French Tech",
+      "role": "Pilotage politique / programmes / réseau Capitales & Communautés / page Visa",
+      "url": "https://lafrenchtech.gouv.fr/",
+      "contact_page": "https://lafrenchtech.gouv.fr/fr/nous-contacter/",
+      "for_dina": "Référence doctrine ; pas le guichet dépôt DRIEETS"
+    },
+    {
+      "id": "business_france",
+      "name": "Business France — Welcome to La French Tech",
+      "role": "Information installation + guides Founders/Employees/Investors",
+      "url": "https://welcome.businessfrance.fr/choisir-la-france/rejoignez-la-french-tech/",
+      "email": "welcometolafrenchtech@businessfrance.fr",
+      "for_dina": "Mail orientation + confirmation process ; desk Welcome to La French Tech"
+    },
+    {
+      "id": "drieets_idf",
+      "name": "DRIEETS Île-de-France — Passeports Talent",
+      "role": "Délivre l’attestation reconnaissant le caractère innovant (Founders) — nationale",
+      "email": "drieets-idf.passeports-talent@drieets.gouv.fr",
+      "platform": "https://www.demarches-simplifiees.fr/commencer/french-tech-visa-for-founders",
+      "for_dina": "Guichet critique après incubateur/lettres"
+    },
+    {
+      "id": "ft_bordeaux",
+      "name": "French Tech Bordeaux (Capitale)",
+      "role": "Capitale NA — orientation incubateurs, adhésion, Tremplin, events, éventuelle lettre Capitale",
+      "website": "https://www.frenchtechbordeaux.com/",
+      "email": "contact@frenchtechbordeaux.com",
+      "address": "Cité numérique, 2 rue Marc Sangnier, 33130 Bègles",
+      "referent_osint": "Philippe METAYER — Directeur délégué (annuaire Mission FT)",
+      "adhesion_startup": "~150 €/an (source tertiaire Aurentia — vérifier site)",
+      "for_dina": "Contacter en parallèle des candidatures incubateurs ; demander orientation + lettre si besoin"
+    },
+    {
+      "id": "ft_athens",
+      "name": "La French Tech Athens",
+      "role": "Communauté internationale FR–GR (événements, réseau, ambassade)",
+      "website": "https://www.lafrenchtechathens.com",
+      "linkedin": "https://gr.linkedin.com/company/frenchtechathens",
+      "for_dina": "Réseau Athènes / soft landing narrative — ≠ attestation DRIEETS"
+    },
+    {
+      "id": "ft_maroc",
+      "name": "Communauté French Tech Maroc (réseau intl)",
+      "role": "Communauté FT listée Afrique du Nord (Campus France / Mission FT)",
+      "url_directory": "https://lafrenchtech.gouv.fr/fr/le-reseau-de-proximite/",
+      "for_dina": "Pont produit Maroc ↔ FT ; networking — pas visa"
+    },
+    {
+      "id": "pepite_na",
+      "name": "Pépite Nord-Aquitain",
+      "role": "Accompagnement étudiant-entrepreneur (SNEE) — acteur écosystème pour lettre #1",
+      "email": "pepite@univ-poitiers.fr",
+      "for_dina": "Déjà dans le parcours ; demander lettre soutien FT explicite"
+    }
+  ],
+  "na_partner_incubators_osint": [
+    {
+      "name": "Unitec",
+      "note": "Cité par FTB comme partenaire FT Visa (NA) ; filière numérique ; candidature projet@unitec.fr",
+      "url": "https://unitec.fr/candidature"
+    },
+    {
+      "name": "Bordeaux Technowest",
+      "note": "Cité FTB ; technopole numérique / multi-filières",
+      "url": "https://technowest.com/candidater/"
+    },
+    {
+      "name": "Héméra",
+      "note": "Cité FTB ; accélération mentors ; Typeform candidature",
+      "url": "https://hemera.typeform.com/to/AkLPiA"
+    },
+    {
+      "name": "Village by CA Aquitaine",
+      "note": "Cité FTB ; accélérateur CA Bordeaux",
+      "url": "https://aquitaine.levillagebyca.com/"
+    }
+  ],
+  "list_caveat": {
+    "critical": true,
+    "finding": "Au 18–25/10/2026, aucune liste publique à jour des incubateurs « partenaires French Tech Visa » n’est publiée sur lafrenchtech.gouv.fr ni Business France (liste Welcome to France retirée / redirect). Les listes tierces et l’article FTB 2019 sont des indices — toujours faire confirmer par écrit.",
+    "action": "Dans chaque candidature : « Confirmez-vous que votre accompagnement ouvre le justificatif pour French Tech Visa for Founders / dépôt DRIEETS ? »"
+  },
+  "other_ft_programs_relevance": [
+    {
+      "name": "French Tech Tremplin",
+      "relevance": "Incubation + bourse (~15 k€) diversité — FTB a des lauréats ; option secondaire si éligible critères Tremplin, pas le chemin visa principal.",
+      "url": "https://lafrenchtech.gouv.fr/fr/programme/french-tech-tremplin"
+    },
+    {
+      "name": "French Tech Central",
+      "relevance": "RDV avec acteurs publics (PI, CIR, cyber…) via Capitales — utile post-installation / structuration.",
+      "url": "https://lafrenchtech.gouv.fr/"
+    },
+    {
+      "name": "Next40 / 120",
+      "relevance": "Scale-ups FR — pas d’entrée visa Founders ; pertinent plus tard si hypercroissance."
+    },
+    {
+      "name": "Entreprise innovante (Employees)",
+      "relevance": "3 critères (soutien public innovation / VC innovant / accompagnement structure innovante) — utile si Dina est embauchée ; formulaire distinct demarches.",
+      "url": "https://www.demarches-simplifiees.fr/commencer/passeport-talent-entreprise-innovante"
+    }
+  ],
+  "fees": {
+    "visa_long_stay_eur": 99,
+    "titre_tax_eur": 300,
+    "timbre_eur": 50,
+    "renewal_eur": 250,
+    "smic_annual_2026_06_01": 22404.2,
+    "source": "Business France Founders — vérifié 8 juin 2026"
+  },
+  "action_plan_dina": [
+    "Écrire à contact@frenchtechbordeaux.com + welcometolafrenchtech@businessfrance.fr (pitch + live + demande orientation incubateurs partenaires / lettre Capitale).",
+    "Candidater Unitec, Technowest, Héméra, Village CA en demandant confirmation écrite FT Visa Founders.",
+    "Obtenir lettre Pépite écosystème FT + 2ᵉ lettre (plan parallèle).",
+    "Rejoindre / contacter French Tech Athens pour réseau local (preuves écosystème).",
+    "Déposer demarches Founders dès incubateur OU 2 lettres → DRIEETS.",
+    "Puis seulement France-Visas Athènes avec attestation."
+  ],
+  "email_templates": {
+    "ft_bordeaux": "Objet : Orientation French Tech Visa Founders — DinaResearch (intel marché Maroc + AI)\n\nBonjour,\n\nJe suis Dina Bouabdallah, fondatrice de DinaResearch (https://dinaresearchmaster.vercel.app), plateforme d’intelligence de marché Maroc (live). Parcours : SNEE Pépite Nord-Aquitain (avis 13/10/2026) · M2IE IAE Poitiers · basée à Athènes (non-UE).\n\nJe prépare un French Tech Visa for Founders (L.421-16 2°) avec ancrage Nouvelle-Aquitaine.\n\nPouvez-vous m’orienter vers les incubateurs/accélérateurs partenaires FT de votre Capitale, et/ou m’indiquer la procédure pour une lettre de soutien Capitale ?\n\nPitch 1 page disponible. Contact : hello@dinaresearch.com · dinabouabdallah08@gmail.com\n\nCordialement,\nDina Bouabdallah",
+    "business_france": "Objet : Welcome to La French Tech — Founders · confirmation process & incubateurs NA\n\nBonjour,\n\nFondatrice non-UE (Athènes) d’un projet innovant d’intelligence marché Maroc + AI (DinaResearch, live). SNEE Pépite Nord-Aquitain.\n\nMerci de confirmer : (1) étapes actuelles Founders / DRIEETS, (2) comment vérifier qu’un incubateur NA est « partenaire » FT Visa (liste publique absente), (3) pièces types lettres de soutien.\n\nCordialement,\nDina Bouabdallah · hello@dinaresearch.com",
+    "ft_athens": "Objet : Introduction — founder DinaResearch · soft landing France / French Tech\n\nHello La French Tech Athens,\n\nI’m Dina Bouabdallah, building DinaResearch (Morocco market intelligence, live) from Athens, preparing French Tech Visa for Founders with Pépite Nouvelle-Aquitaine.\n\nI’d like to connect with the community (events / intros) while I complete incubator / DRIEETS steps.\n\nBest regards,\nDina · https://dinaresearchmaster.vercel.app · hello@dinaresearch.com"
+  },
+  "sources": [
+    "https://lafrenchtech.gouv.fr/fr/venir-travailler-en-france/french-tech-visa/",
+    "https://welcome.businessfrance.fr/simplanter-en-france/recruter-des-talents-internationaux/visas-et-titres-de-sejour/les-statuts-des-dirigeants-etrangers/french-tech-visa-for-founders/",
+    "https://www.demarches-simplifiees.fr/commencer/french-tech-visa-for-founders",
+    "https://demarche.numerique.gouv.fr/commencer/french-tech-visa-for-founders",
+    "https://www.frenchtechbordeaux.com/nos-actualites/le-nouveau-french-tech-visa",
+    "https://www.frenchtechbordeaux.com/",
+    "https://lafrenchtech.gouv.fr/fr/le-reseau-de-proximite/",
+    "https://www.lafrenchtechathens.com",
+    "https://relotus-relocation.com/en/journal/france/french-tech-visa-talent-passport",
+    "https://www.campusfrance.org/fr/reseau-des-french-tech-a-l-international-69-communautes-dans-52-pays"
+  ]
+}

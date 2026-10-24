@@ -1,0 +1,121 @@
+{
+  "integrated_at": "2026-10-24",
+  "osint_report": "docs/OSINT_CAMPAGNE_2026-10-24.md",
+  "sources_from_other_agents": [
+    "docs/SNEE_ET_VISAS.md",
+    "docs/D2E_ET_VISAS.md",
+    "docs/PEPITE_ET_VISAS.md",
+    "docs/MATRICE_SNEE_VISAS.md",
+    "docs/MATRICE_D2E_VISAS.md",
+    "docs/MATRICE_PEPITE_VISAS.md",
+    "docs/APPLICATION_DOSSIER_DINA.md",
+    "docs/ALUMNI_PEPITE_SUCCES.md",
+    "docs/SOURCES.md",
+    "docs/CV_DINA.md",
+    "data/cv.json"
+  ],
+  "osint_wave_urls": [
+    "https://france-visas.gouv.fr/talents-internationaux-et-attractivite-economique",
+    "https://france-visas.gouv.fr/etudiant",
+    "https://france-visas.gouv.fr/grece",
+    "https://www.service-public.gouv.fr/particuliers/vosdroits/F16922",
+    "https://www.service-public.gouv.fr/particuliers/vosdroits/F2231",
+    "https://welcome.businessfrance.fr/simplanter-en-france/recruter-des-talents-internationaux/visas-et-titres-de-sejour/les-statuts-des-dirigeants-etrangers/french-tech-visa-for-founders/",
+    "https://lafrenchtech.gouv.fr/fr/venir-travailler-en-france/french-tech-visa",
+    "https://www.demarches-simplifiees.fr/commencer/french-tech-visa-for-founders",
+    "https://www.demarches-simplifiees.fr/statistiques/french-tech-visa-for-founders",
+    "https://www.tarn-et-garonne.gouv.fr/Outils/Foire-aux-Questions-FAQ/ACCUEIL-DES-ETRANGERS-GENERALITES/ETUDIANTS-ETRANGERS",
+    "https://gr.diplomatie.gouv.fr/fr/demander-un-visa",
+    "https://www.univ-poitiers.fr/espace-etudiant-e-s/lentrepreneuriat-grace-a-pepite",
+    "https://pepite-nordaquitain.pepitizy.fr",
+    "https://www.legalplace.fr/guides/etudiant-etranger-auto-entrepreneur"
+  ],
+  "hard_rules": [
+    "SNEE n'est pas un visa ni un titre de séjour.",
+    "D2E n'est pas un visa ; il ne remplace pas l'avis organisme public Talent innovant.",
+    "SNEE / Pépite ≠ attestation DRIEETS / French Tech Founders.",
+    "FAD 100% distante = risque élevé de refus VLS-TS Études (pratique préfectorale Tarn-et-Garonne + CAA Toulouse).",
+    "Sous titre étudiant : pas d'auto-entrepreneur (964 h salarié max).",
+    "Talent innovant : attestation DRIEETS via demarches-simplifiees (incubateur FT OU 2 lettres) + ressources ≥ SMIC annuel 22 404,20 € (1er juin 2026).",
+    "Talent créateur : master/XP + financement ≥ 30 000 € (R.421-33-2) + ressources ≥ SMIC — PAS requis pour innovant Founders.",
+    "Ressources étudiant Service-Public : ≥ 877,5 €/mois.",
+    "Consulat Athènes : RDV par mail après PDF France-Visas ; Vevaiosi ≠ voyage Schengen ; dépôt mercredi 08:30-13:30.",
+    "D2E Poitiers : SNEE année en cours obligatoire pour y accéder (univ-poitiers.fr).",
+    "RECE : pas porte d'entrée immédiate (diplôme FR typique)."
+  ],
+  "dinaresearch_product": {
+    "repo": "C:\\\\Users\\\\Jadiss\\\\OneDrive\\\\Bureau\\\\DinaResearchMaster",
+    "live": "https://dinaresearchmaster.vercel.app",
+    "angles_doc": "docs/ANGLES_15_DINARESEARCH.md",
+    "pitch": "data/project_pack/pitch_1page_fr.md"
+  },
+  "dossier_dina_prioritization": [
+    "Packager DinaResearch (pitch_1page + captures) — docs/ANGLES_15_DINARESEARCH.md",
+    "Candidater incubateurs FT NA: Héméra (typeform), Unitec, Technowest, Village by CA — OU 2 lettres écosystème",
+    "Déposer attestation DRIEETS (L.421-16 2°) demarches french-tech-visa-for-founders — ~8 j à 2 mois",
+    "Réaliser D2E (rentrée 3 nov) + archiver SNEE (complément, pas substitut)",
+    "Attestation IAE présence FAD (filet études — CAA Toulouse 25TL01480 = risque FAD 100%)",
+    "Formaliser garant oncle (logement + financier année entière) : attestation + justificatifs ≥ SMIC 22 404,20 €/an puis France-Visas Athènes (99 € VLS)",
+    "Évaluer 30 k€ (L.421-16 1° créateur) comme plan B seulement"
+  ],
+  "family_support": {
+    "guarantor": "uncle",
+    "nationality": "FR",
+    "housing": true,
+    "financial": true,
+    "sufficient_resources_declared": true,
+    "will_provide_any_required_documents": true,
+    "sole_financial_proof_for_dossier": true,
+    "other_financial_proofs": false,
+    "period": "full_academic_year",
+    "declared_at": "2026-10-24",
+    "note": "Oncle français, ressources suffisantes, prêt à tout document — seule preuve financière du dossier ; ne remplace pas les pièces consulaires formelles."
+  },
+  "legal_basis": {
+    "talent_porteur": "CESEDA L.421-16 (depuis 28/01/2024)",
+    "innovant": "L.421-16 2° (ex-L.421-17 abrogé)",
+    "createur": "L.421-16 1° + R.421-33-2 ≥ 30 000 € (décret 2025-539)",
+    "innovant_no_30k": true,
+    "etudiant": "CESEDA L.422-1",
+    "fad_case": "CAA Toulouse 18/02/2026 25TL01480"
+  },
+  "incubators_na_priority": [
+    {"name": "Héméra", "url": "https://hemera.typeform.com/to/AkLPiA"},
+    {"name": "Unitec", "city": "Bordeaux"},
+    {"name": "Technowest", "city": "Bordeaux"},
+    {"name": "Village by CA Aquitaine", "city": "NA"}
+  ],
+  "timeline_months_e2e": "4-6",
+  "key_contacts": {
+    "drieets_talent": "drieets-idf.passeports-talent@drieets.gouv.fr",
+    "athens_visas": "admin-etrangers.athenes-amba@diplomatie.gouv.fr",
+    "pepite_poitiers": "pepite@univ-poitiers.fr",
+    "iae_fad": "nadine.lespe@univ-poitiers.fr"
+  },
+  "thresholds": {
+    "smic_annual_brut_2026_06_01": 22404.2,
+    "student_monthly_eur": 877.5,
+    "talent_createur_investment_eur": 30000,
+    "talent_createur_legal_basis": "CESEDA R.421-33-2 (depuis 16/06/2025, décret 2025-539) — L.421-16 1° seulement",
+    "drieets_processing_best_days": 8,
+    "drieets_processing_incomplete_months": 2
+  },
+  "fees_talent_founders_eur": {
+    "visa_long_stay": 99,
+    "titre_tax": 300,
+    "timbre": 50,
+    "renewal": 250,
+    "source": "Business France Founders page scraped 2026-10-24 (vérifié 8 juin 2026)"
+  },
+  "checklist_pdf_juillet_2026": "https://welcome.businessfrance.fr/wp-content/uploads/2026/07/2_-Dirigeant_documents_talent_french_tech_visa_founders_juillet2026.pdf",
+  "hypothesis": {
+    "d2e_inscrit": true,
+    "effect_on_dossier": "D2E ●●● pour crédibiliser Talent et argumenter présence Pépite ; ne retire pas le besoin d'avis public Talent innovant (DRIEETS)."
+  },
+  "tooling_notes": {
+    "bright_data": "user-Bright Data OK (SERP + Unlocker); plugin-bright-data broken",
+    "apify": "plugin-apify-apify OK (web-fetch Légifrance); user-apify needsAuth",
+    "tavily": "search/extract OK; research quota 432 exceeded wave 3",
+    "tavily_research_id_wave1": "6ec53fb3-8b3d-4244-b8b2-59c777d0399e"
+  }
+}

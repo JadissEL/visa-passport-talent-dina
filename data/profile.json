@@ -1,0 +1,98 @@
+{
+  "candidate": {
+    "full_name": "Dina Bouabdallah",
+    "date_of_birth": "2000-03-08",
+    "date_of_birth_fr": "08/03/2000",
+    "age": 26,
+    "email": "dinabouabdallah08@gmail.com",
+    "phone": "+30 6943803290",
+    "linkedin": "https://linkedin.com/in/dina-bouabdallah",
+    "address": "Mantzagriotaki 53, 17672 Athens, Greece",
+    "nationality_context": "Ressortissante non-UE résidant en Grèce (attestation Vevaiosi / titre en cours)",
+    "languages": [
+      { "language": "French", "level": "Native" },
+      { "language": "Arabic", "level": "Native" },
+      { "language": "English", "level": "Full Professional" }
+    ],
+    "education": {
+      "prior": "Master Gestion Financière et Comptable (FMA Accounting & Finance) — ENCG Marrakech (Oct 2020 – Jun 2023)",
+      "preparatory": "Classes Préparatoires ECT — Lycée Moulay Idriss (2018 – 2020)",
+      "experience": "≈2 ans Deloitte Greece (Strategy/Transactions puis Risk Advisory & QCE) + Assistwise + Superprof + stage Al Barid Bank",
+      "current": "M2 Intelligence Économique (M2IE) — IAE de Poitiers — Formation à Distance (FAD)",
+      "academic_year": "2026/2027",
+      "m2_start": "Sep 2026",
+      "responsable_pedagogique": "Nicolas Moinet — nicolas.moinet@univ-poitiers.fr",
+      "gestionnaire_fad": "Nadine Lespe — nadine.lespe@univ-poitiers.fr"
+    },
+    "professional_experience_summary": [
+      "Deloitte Greece — Experienced Junior Consultant & QCE (Risk Advisory) — Feb 2025 – Jul 2026 (promue Jul 2025, QCE May 2025)",
+      "Deloitte Greece — Junior Consultant / Financial Analyst (Strategy, Risk & Transactions) — Aug 2024 – Feb 2025",
+      "Assistwise — Financial Products and Platform Advisor — May 2024 – Jun 2024",
+      "Superprof — Financial Sciences Educator — Jul 2023 – Present",
+      "Al Barid Bank — Management Controller (internship) — Jan 2023 – May 2023"
+    ],
+    "certifications": [
+      "Lean Six Sigma Yellow Belt",
+      "Business Analytics: Prescriptive Analytics",
+      "Qlik Sense Data Ingestion & Visualization",
+      "Audit & Due Diligence Foundations",
+      "Advanced Visio Data Visualization"
+    ],
+    "cv": {
+      "pdf": "data/cv/Dina_CV.pdf",
+      "structured": "data/cv.json",
+      "doc": "docs/CV_DINA.md",
+      "headline": "Investment Banking · PE · Hedge Funds · Strategy Consulting"
+    },
+    "entrepreneurship": {
+      "snee_status": "Avis positif commission (13 oct 2026)",
+      "snee_account": "DIN6AC843CA",
+      "snee_candidature": "6AC845699E9",
+      "pepite": "Pépite Nord-Aquitain — site Poitiers (pepite@univ-poitiers.fr)",
+      "d2e_status": "HYPOTHÈSE : inscription D2E finalisée (dossier complet + rentrée admin PEPITE validée)",
+      "d2e_hypothesis": true,
+      "d2e_hypothesis_note": "État réel au 24/10/2026 : D2E non encore inscrit. L'étude score comme si l'inscription est faite (rentrée 3 nov + dossier complet).",
+      "project_name": "Dina's research",
+      "product_brand": "DinaResearch",
+      "project_url": "https://dinaresearchmaster.vercel.app",
+      "project_repo": "C:\\Users\\Jadiss\\OneDrive\\Bureau\\DinaResearchMaster",
+      "project_contact": "hello@dinaresearch.com",
+      "project_summary": "Plateforme d'intelligence de marché Maroc (markets, companies, investors, startups, initiatives, events) — Next.js/Prisma/Vercel ; axe Maroc ↔ francophonie / IE",
+      "project_pack": "data/project_pack/",
+      "angles_applied": "docs/ANGLES_15_DINARESEARCH.md"
+    },
+    "visa_target": {
+      "consulate": "Consulat général de France à Athènes",
+      "visa_email": "admin-etrangers.athenes-amba@diplomatie.gouv.fr",
+      "options": ["VLS-TS Études", "VLS-TS Talent — Porteur de projet innovant"]
+    },
+    "support": {
+      "guarantor_relationship": "uncle",
+      "guarantor_label_fr": "Oncle de Dina",
+      "guarantor_nationality": "FR",
+      "guarantor_nationality_fr": "Française",
+      "housing_guarantor": true,
+      "financial_guarantor": true,
+      "sufficient_resources_declared": true,
+      "will_provide_any_required_documents": true,
+      "coverage_period": "full_academic_year",
+      "coverage_note_fr": "Nationalité française ; ressources financières suffisantes pour financer Dina ; prêt à porter garant logement et financièrement pour toute l'année ; prêt à délivrer tout document nécessaire au Consulat.",
+      "sole_financial_proof_for_dossier": true,
+      "other_financial_proofs": false,
+      "other_financial_proofs_note_fr": "À part le garant oncle, le dossier n'a pas d'autres preuves financières (pas de comptes / épargne Dina documentés pour le seuil).",
+      "declared_at": "2026-10-24",
+      "status": "family_commitment_declared",
+      "status_note_fr": "Engagement familial déclaré (FR + ressources suffisantes + documents à la demande). Pièces consulaires concrètes (passeport/CNI, attestation d'hébergement / prise en charge, justificatifs de ressources) encore à collecter auprès de l'oncle.",
+      "covers_student_monthly_threshold": true,
+      "covers_talent_smic_annual_threshold": true,
+      "student_threshold_eur_month": 877.5,
+      "talent_smic_annual_eur": 22404.2
+    }
+  },
+  "scrape_meta": {
+    "source": "Gmail MCP + Chrome session dinabouabdallah08@gmail.com + CV PDF (Downloads/Dina_CV.pdf)",
+    "scraped_at": "2026-10-24",
+    "cv_imported_at": "2026-10-24",
+    "keywords": ["IAE", "Poitiers", "PEPITE", "SNEE", "D2E", "visa", "talent", "M2IE", "FAD", "CV", "Deloitte"]
+  }
+}

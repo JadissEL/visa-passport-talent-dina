@@ -1,0 +1,19 @@
+{
+  "wave": 3,
+  "at": "2026-10-24T23:30:00+03:00",
+  "tools": {
+    "tavily": "plugin-tavily-tavily ready — search advanced + extract",
+    "apify": "plugin-apify-apify ready — rag-web-browser run QCxaP6aQ3z9Ihm8bu dataset V0rSGzrn17guAYq1I",
+    "bright_data_mcp": "error — unavailable",
+    "bright_data_api": "OK zone mcp_unlocker — LegalPlace 174KB; .gouv.fr SPA often empty body"
+  },
+  "key_findings": [
+    "Loire-Atlantique FAQ: FAD pure and auto-entrepreneur blocked for student status",
+    "Campus France Algeria: no visa for pure distance learning",
+    "Immifrance claim on SNEE bypassing 964h cap is contested vs Service-Public",
+    "Campus France create-company page links PEPITE/SNEE as accompaniment + APS/RECE path",
+    "France-Visas Greece: Athens RDV by email; Vevaiosi not valid for Schengen travel",
+    "Poitiers Pépite contacts confirmed; D2E requires current-year SNEE"
+  ],
+  "report": "docs/OSINT_CAMPAGNE_2026-10-24.md#11"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "DinaResearch",
+  "repo_path": "C:\\Users\\Jadiss\\OneDrive\\Bureau\\DinaResearchMaster",
+  "live_url": "https://dinaresearchmaster.vercel.app",
+  "contact_email": "hello@dinaresearch.com",
+  "tagline": "Morocco's market intelligence",
+  "stack": ["Next.js 16", "React 19", "Prisma", "Neon PostgreSQL", "Vercel", "Tailwind 4", "Resend"],
+  "domains": [
+    "Moroccan Market Panorama",
+    "Company Research",
+    "Investors & Capital",
+    "Startup Funding",
+    "Initiatives & Programs",
+    "Events & Ecosystem"
+  ],
+  "sample_articles_observed_2026_10": [
+    "Attijariwafa Bank",
+    "Morocco Demo Days",
+    "Gulf Capital in Morocco",
+    "Fintech and Insurtech Startup Wave",
+    "Investor and Startup Events 2026",
+    "Free Zones, Accelerators, and PPP"
+  ],
+  "visa_alignment": {
+    "snee_project_name": "Dina's research",
+    "m2ie_fit": "Intelligence économique / veille marché",
+    "innovation_broad": true,
+    "primary_angle": 1,
+    "angles_doc": "docs/ANGLES_15_DINARESEARCH.md"
+  },
+  "captured_at": "2026-10-24"
+}

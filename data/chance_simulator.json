@@ -1,0 +1,269 @@
+{
+  "updated_at": "2026-10-25",
+  "title": "Simulateur de chances — Talent Founders",
+  "disclaimer": "Indicateur pédagogique réactif (pas une proba officielle ni un conseil juridique). Plafonds : sans porte écosystème ni DRIEETS, le score ne peut pas atteindre ~90 %.",
+  "scoring": {
+    "floor": 12,
+    "ceiling": 92,
+    "cap_without_ecosystem_door": 52,
+    "cap_without_drieets": 58,
+    "cap_without_resources_pack": 78,
+    "ecosystem_door_ids": ["incubator_partner", "lettre_capitale_ftb", "lettre_pepite_ft", "lettre_iae_ecosystem", "lettre_pro_ft"],
+    "ecosystem_door_rule": "at_least_one_incubator_OR_two_letters",
+    "letter_ids": ["lettre_capitale_ftb", "lettre_pepite_ft", "lettre_iae_ecosystem", "lettre_pro_ft"],
+    "drieets_id": "drieets_attestation",
+    "resources_pack_ids": ["uncle_id", "uncle_housing", "uncle_prise_charge", "uncle_revenus", "own_bank_proofs"],
+    "resources_min_count": 3,
+    "bonus_complete_pack": 3,
+    "bonus_narrative": 2
+  },
+  "documents": [
+    {
+      "id": "pitch_1page",
+      "label": "Pitch 1 page DinaResearch",
+      "category": "produit",
+      "points": 5,
+      "ready": true,
+      "fixed": true,
+      "note": "data/project_pack/pitch_1page_fr.md — déjà rédigé"
+    },
+    {
+      "id": "product_live",
+      "label": "Site live DinaResearch (URL)",
+      "category": "produit",
+      "points": 6,
+      "ready": true,
+      "fixed": true,
+      "note": "https://dinaresearchmaster.vercel.app"
+    },
+    {
+      "id": "cv_master_xp",
+      "label": "CV + Master ENCG + XP Deloitte",
+      "category": "profil",
+      "points": 5,
+      "ready": true,
+      "fixed": true,
+      "note": "CV PDF + parcours Deloitte Greece documentés"
+    },
+    {
+      "id": "snee_avis",
+      "label": "Avis SNEE favorable 13/10/2026",
+      "category": "ecosysteme",
+      "points": 4,
+      "ready": true,
+      "fixed": true,
+      "note": "Compte DIN6AC843CA — avis existe (archiver PDF si pas déjà fait)"
+    },
+    {
+      "id": "m2ie_inscription",
+      "label": "Inscription M2IE IAE Poitiers (avis + paiement)",
+      "category": "etudes",
+      "points": 3,
+      "ready": true,
+      "fixed": true,
+      "note": "Ancrage académique — complément, pas motif Talent"
+    },
+    {
+      "id": "iris_certificate",
+      "label": "Certificat de scolarité IRIS",
+      "category": "etudes",
+      "points": 2,
+      "ready": true,
+      "fixed": true,
+      "note": "Disponible dans le dossier scolaire"
+    },
+    {
+      "id": "identity_travel",
+      "label": "Passeport / identité + résidence Athènes",
+      "category": "identite",
+      "points": 3,
+      "ready": true,
+      "fixed": true,
+      "note": "Nécessaire pour tout dépôt consulaire"
+    },
+    {
+      "id": "athens_consulate_contact",
+      "label": "Contact Consulat Athènes déjà établi",
+      "category": "procedure",
+      "points": 2,
+      "ready": true,
+      "fixed": true,
+      "note": "Canal mail visas connu — pas un droit au séjour"
+    },
+    {
+      "id": "linkedin_certs",
+      "label": "LinkedIn + certifications (Six Sigma, analytics…)",
+      "category": "profil",
+      "points": 2,
+      "ready": true,
+      "fixed": true,
+      "note": "Crédibilité profil — poids faible"
+    },
+    {
+      "id": "email_templates_ft",
+      "label": "Modèles d’emails FT / incubateurs prêts",
+      "category": "procedure",
+      "points": 1,
+      "ready": true,
+      "fixed": true,
+      "note": "Accélère l’exécution, pas une pièce consulaire"
+    },
+
+    {
+      "id": "captures_live",
+      "label": "Captures d’écran site live (3–5)",
+      "category": "produit",
+      "points": 4,
+      "ready": false,
+      "fixed": false,
+      "note": "Manque actuel du pack — à produire cette semaine"
+    },
+    {
+      "id": "innovation_memo",
+      "label": "Mémo innovation (claim service / usage / modèle)",
+      "category": "produit",
+      "points": 3,
+      "ready": false,
+      "fixed": false,
+      "note": "1–2 pages alignées définition officielle « innovant »"
+    },
+    {
+      "id": "narrative_athens",
+      "label": "Note narrative consulaire (SNEE ≠ visa)",
+      "category": "procedure",
+      "points": 3,
+      "ready": false,
+      "fixed": false,
+      "note": "Message unique Founders après DRIEETS"
+    },
+
+    {
+      "id": "incubator_partner",
+      "label": "Acceptation incubateur partenaire FT (écrit)",
+      "category": "ecosysteme",
+      "points": 18,
+      "ready": false,
+      "fixed": false,
+      "note": "Unitec / Technowest / Héméra / Village CA — confirmation FT Visa Founders"
+    },
+    {
+      "id": "lettre_capitale_ftb",
+      "label": "Lettre / soutien Capitale French Tech Bordeaux",
+      "category": "ecosysteme",
+      "points": 10,
+      "ready": false,
+      "fixed": false,
+      "note": "Porte 2 — contact@frenchtechbordeaux.com"
+    },
+    {
+      "id": "lettre_pepite_ft",
+      "label": "Lettre Pépite « écosystème FT » (explicite)",
+      "category": "ecosysteme",
+      "points": 8,
+      "ready": false,
+      "fixed": false,
+      "note": "Pas seulement accompagnement SNEE — formuler soutien innovant / FT"
+    },
+    {
+      "id": "lettre_iae_ecosystem",
+      "label": "Lettre IAE / Moinet (écosystème / projet)",
+      "category": "ecosysteme",
+      "points": 8,
+      "ready": false,
+      "fixed": false,
+      "note": "2ᵉ lettre possible pour la porte « 2 lettres »"
+    },
+    {
+      "id": "lettre_pro_ft",
+      "label": "Lettre pro FR (Deloitte alumni / IE / startup FT)",
+      "category": "ecosysteme",
+      "points": 7,
+      "ready": false,
+      "fixed": false,
+      "note": "Alternative 2ᵉ lettre si lien French Tech crédible"
+    },
+    {
+      "id": "drieets_attestation",
+      "label": "Attestation d’innovation DRIEETS",
+      "category": "killer",
+      "points": 28,
+      "ready": false,
+      "fixed": false,
+      "note": "Pièce killer — demarches Founders après porte écosystème"
+    },
+
+    {
+      "id": "uncle_id",
+      "label": "CNI / passeport FR de l’oncle",
+      "category": "ressources",
+      "points": 3,
+      "ready": false,
+      "fixed": false,
+      "note": "Identité du garant — pas un prêt"
+    },
+    {
+      "id": "uncle_housing",
+      "label": "Attestation d’hébergement (oncle)",
+      "category": "ressources",
+      "points": 4,
+      "ready": false,
+      "fixed": false,
+      "note": "Si logement chez l’oncle"
+    },
+    {
+      "id": "uncle_prise_charge",
+      "label": "Attestation de prise en charge (sans prêt cash)",
+      "category": "ressources",
+      "points": 6,
+      "ready": false,
+      "fixed": false,
+      "note": "Engagement documentaire — ≠ virement 22 k€"
+    },
+    {
+      "id": "uncle_revenus",
+      "label": "Justificatifs revenus oncle (avis d’impôt / bulletins)",
+      "category": "ressources",
+      "points": 6,
+      "ready": false,
+      "fixed": false,
+      "note": "Prouvent SA capacité à prendre en charge"
+    },
+    {
+      "id": "own_bank_proofs",
+      "label": "Ressources propres documentées (si réelles)",
+      "category": "ressources",
+      "points": 5,
+      "ready": false,
+      "fixed": false,
+      "note": "Uniquement si tu as des preuves à ton nom — ne pas inventer"
+    },
+
+    {
+      "id": "d2e_inscription",
+      "label": "Inscription D2E validée (Pépite)",
+      "category": "ecosysteme",
+      "points": 3,
+      "ready": false,
+      "fixed": false,
+      "note": "Soutien crédibilité — pas substitut DRIEETS"
+    },
+    {
+      "id": "iae_presence",
+      "label": "Attestation IAE obligations de présence (filet études)",
+      "category": "etudes",
+      "points": 4,
+      "ready": false,
+      "fixed": false,
+      "note": "Filet VLS études seulement — ne remplace pas Founders"
+    },
+    {
+      "id": "france_visas_draft",
+      "label": "Dossier France-Visas pré-rempli (après DRIEETS)",
+      "category": "procedure",
+      "points": 2,
+      "ready": false,
+      "fixed": false,
+      "note": "Utile en fin de parcours — bloqué tant que pas d’attestation"
+    }
+  ]
+}

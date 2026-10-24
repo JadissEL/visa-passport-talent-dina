@@ -1,0 +1,184 @@
+{
+  "updated_at": "2026-10-25",
+  "title": "Plan réaliste pour maximiser les chances Talent Founders",
+  "disclaimer": "Pas un conseil juridique ni une garantie. « ~90 % » = objectif de solidité du dossier (pièces killer + cohérence), pas une proba statistique officielle. Consulat Athènes / avocat immigration tranchent.",
+  "target_pathway": "Talent innovant / French Tech Founders (L.421-16 2°)",
+  "not_this_pathway": "Talent créateur (≥ 30 000 € d’investissement) — hors scope ici.",
+  "honesty": {
+    "what_90_means": "On vise un dossier où la pièce killer (attestation DRIEETS) est obtenue, le projet est crédible, et les ressources sont justifiées sans histoire inventée. Sans DRIEETS, parler de 90 % n’a aucun sens.",
+    "current_bottleneck": "Pas l’argent « à trouver » : c’est l’attestation d’innovation DRIEETS (via incubateur FT ou 2 lettres)."
+  },
+  "absurd_to_avoid": [
+    {
+      "myth": "« Il faut trouver / emprunter 22 404 € en cash »",
+      "reality": "Pour Founders, le seuil SMIC est une justification de ressources pour vivre en France — typiquement via attestation de prise en charge + preuves que le garant a des revenus (avis d’impôt, bulletins), pas un virement de 22 k€ sur ton compte."
+    },
+    {
+      "myth": "« Il faut 30 000 € d’investissement »",
+      "reality": "C’est la mention Talent créateur (R.421-33-2), pas Founders / projet innovant. Ne pas mélanger."
+    },
+    {
+      "myth": "« L’avis SNEE ou le D2E = visa »",
+      "reality": "Crédibilité académique / entrepreneuriale seulement. Ne remplacent jamais DRIEETS ni le consulat."
+    },
+    {
+      "myth": "« Déposer France-Visas Athènes tout de suite »",
+      "reality": "Sans attestation DRIEETS, le rail Founders est structurellement faible / bloqué."
+    }
+  ],
+  "money_without_loan": {
+    "title": "Ressources sans emprunt de 22 k€ (contrainte réelle)",
+    "constraint": "L’oncle ne te prêtera pas 22 k€ — et ce n’est pas ce qu’on demande dans le plan ci-dessous.",
+    "what_consulate_usually_wants": [
+      "Preuve que tu (ou un garant) peux assurer le niveau de vie type SMIC annuel pendant le séjour.",
+      "Souvent : attestation de prise en charge signée + identité du garant + justificatifs de SES revenus/ressources + éventuellement hébergement."
+    ],
+    "realistic_options": [
+      {
+        "id": "A",
+        "label": "Oncle = hébergement + prise en charge (sans prêt)",
+        "fit": "Si l’oncle accepte de signer une prise en charge et de montrer ses revenus (pas de te prêter l’argent).",
+        "actions": [
+          "Attestation d’hébergement (s’il te loge) et/ou prise en charge des frais de vie.",
+          "CNI/passeport FR + avis d’impôt / bulletins — prouvent SA capacité, pas un prêt.",
+          "Texte clair : engagement de prise en charge, pas « je verse 22 k€ »."
+        ]
+      },
+      {
+        "id": "B",
+        "label": "Oncle = logement seulement + autre garant ressources",
+        "fit": "Si l’oncle refuse tout engagement financier mais peut héberger.",
+        "actions": [
+          "Limiter l’oncle à l’hébergement (attestation + justificatif de domicile).",
+          "Chercher un autre garant FR (famille, conjoint, proche) prêt à la prise en charge documentaire.",
+          "Ne pas inventer un second garant fictif."
+        ]
+      },
+      {
+        "id": "C",
+        "label": "Ressources propres (sans oncle financeur)",
+        "fit": "Si tu as ou peux documenter revenus / épargne réels à ton nom.",
+        "actions": [
+          "Relevés bancaires, contrats freelances / salaires, épargne — uniquement du réel.",
+          "Si le niveau est sous SMIC annuel : combiner avec un garant (option A/B), ne pas « gonfler » les chiffres."
+        ]
+      },
+      {
+        "id": "D",
+        "label": "Séquencer : DRIEETS d’abord, ressources ensuite",
+        "fit": "Toujours — même si les pièces oncle traînent.",
+        "actions": [
+          "Priorité absolue : incubateurs / 2 lettres → dépôt demarches → attestation.",
+          "Préparer le pack ressources en parallèle, sans bloquer les candidatures FT.",
+          "Le consulat vient après DRIEETS : tu as du temps calendaire pour formaliser le garant."
+        ]
+      }
+    ],
+    "do_not": [
+      "Demander à l’oncle un prêt de 22 k€ « pour le dossier ».",
+      "Créer de fausses preuves de fonds.",
+      "Reporter les candidatures incubateurs « le temps d’avoir l’argent »."
+    ]
+  },
+  "probability_model": {
+    "note": "Ordres de grandeur subjectifs pour prioriser l’effort — pas une étude statistique.",
+    "levers": [
+      { "id": "drieets", "label": "Attestation DRIEETS obtenue", "impact": "critique", "delta": "+35 à +45 pts", "without": "plafond bas quel que soit le reste" },
+      { "id": "ecosystem", "label": "Incubateur FT confirmé OU 2 lettres solides", "impact": "critique", "delta": "débloque DRIEETS", "without": "pas de dépôt Founders crédible" },
+      { "id": "pack", "label": "Pack produit live + pitch + captures", "impact": "élevé", "delta": "+10 à +15 pts", "without": "lettres / incubateurs plus durs à obtenir" },
+      { "id": "narrative", "label": "Narrative unique Athènes (SNEE ≠ visa)", "impact": "moyen", "delta": "+5 à +8 pts", "without": "risque de confusion études/FAD" },
+      { "id": "resources", "label": "Pack ressources documentaire (sans prêt)", "impact": "élevé en fin de parcours", "delta": "+10 à +15 pts au consulat", "without": "refus possible même avec DRIEETS" },
+      { "id": "d2e_snee", "label": "Archiver SNEE + avancer D2E", "impact": "soutien", "delta": "+3 à +6 pts crédibilité", "without": "pas bloquant pour Founders" }
+    ]
+  },
+  "phases": [
+    {
+      "n": 1,
+      "title": "Rendre le projet indéniable (1–2 semaines)",
+      "goal": "Que Unitec / Technowest / Héméra / FTB comprennent DinaResearch en 60 secondes.",
+      "chance_effect": "Hausse nette des réponses incubateurs / lettres.",
+      "steps": [
+        "Finaliser captures live du site (manque actuel du pack).",
+        "Pitch 1 page déjà OK — joindre URL + 3 captures + claim innovation (service / usage / modèle).",
+        "Une phrase consulaire prête : « Talent Founders après attestation DRIEETS ; SNEE = accompagnement, pas motif de séjour »."
+      ],
+      "done_when": "Zip / dossier prêt à coller dans chaque mail incubateur."
+    },
+    {
+      "n": 2,
+      "title": "Ouvrir une porte écosystème (2–8 semaines)",
+      "goal": "Une preuve parmi : incubateur partenaire FT · lettre Capitale Bordeaux · 2 lettres écosystème.",
+      "chance_effect": "C’est le vrai levier vers ~90 % — sans ça, le plafond reste bas.",
+      "steps": [
+        "Candidater Unitec, Technowest, Héméra, Village by CA — demander confirmation écrite FT Visa Founders.",
+        "Mail parallèle French Tech Bordeaux + Welcome to La French Tech (orientation / lettre).",
+        "Plan lettres : Pépite (écosystème FT) + 2ᵉ lettre (IAE / enseignant-chercheur / acteur IE FR).",
+        "Relancer poliment à J+10 / J+20 — ne pas attendre une seule réponse."
+      ],
+      "done_when": "Écrit qui ouvre le dépôt demarches (incubateur confirmé OU 2 lettres)."
+    },
+    {
+      "n": 3,
+      "title": "Obtenir l’attestation DRIEETS (quelques jours → ~2 mois)",
+      "goal": "Le PDF / décision qui dit « projet innovant » — pièce killer.",
+      "chance_effect": "Passe le dossier de « stratégique mais bloqué » à « déposable Athènes ».",
+      "steps": [
+        "Dépôt demarches-simplifiees French Tech Visa for Founders (dossier complet du premier coup).",
+        "Joindre pack + preuves écosystème ; mail DRIEETS seulement si suivi utile.",
+        "Ne pas ouvrir France-Visas tant que l’attestation n’est pas là."
+      ],
+      "done_when": "Attestation en main."
+    },
+    {
+      "n": 4,
+      "title": "Ressources documentaires — sans prêt 22 k€ (en parallèle dès phase 2)",
+      "goal": "Un pack garant / ressources que le consulat peut lire, sans demander d’emprunt à l’oncle.",
+      "chance_effect": "Sécurise le passage consulaire après DRIEETS.",
+      "steps": [
+        "Clarifier avec l’oncle : hébergement ? prise en charge documentaire ? (pas un prêt).",
+        "Choisir option A, B ou C du bloc « Ressources sans emprunt ».",
+        "Rassembler CNI, attestation, justificatifs de revenus du garant — modèles clairs, montants cohérents.",
+        "Si blocage total côté famille : traiter comme risque projet (option C ou autre garant) — ne pas inventer."
+      ],
+      "done_when": "Dossier ressources prêt à joindre France-Visas."
+    },
+    {
+      "n": 5,
+      "title": "France-Visas Athènes (après DRIEETS)",
+      "goal": "Dépôt cohérent : attestation + projet + ressources + narrative unique.",
+      "chance_effect": "Concrétise le titre ; les erreurs de narrative font chuter les chances ici.",
+      "steps": [
+        "Créer / compléter France-Visas avec la bonne mention Talent innovant.",
+        "Joindre attestation DRIEETS en pièce centrale.",
+        "Mail consulat seulement pour RDV / pièces — pas pour « expliquer SNEE = visa ».",
+        "Frais indicatifs visa ~99 € (+ taxe titre plus tard)."
+      ],
+      "done_when": "Dossier déposé / RDV honoré."
+    },
+    {
+      "n": 6,
+      "title": "Filets (seulement si besoin — ne pas diluer le focus)",
+      "goal": "Plan B études uniquement avec attestation IAE de présence ; jamais FAD seule.",
+      "chance_effect": "Filet, pas le chemin vers 90 % Founders.",
+      "steps": [
+        "Demander attestation IAE (Lespe / Moinet) sur obligations de présence — en parallèle léger.",
+        "Ne pas pivoter tout le temps sur les études : ça affaiblit le message Founders.",
+        "Ignorer le plan créateur 30 k€ tant que ce n’est pas financé réellement."
+      ],
+      "done_when": "Filet documenté OU explicitement mis de côté."
+    }
+  ],
+  "weekly_cadence": [
+    "Lundi : 1 candidature / relance incubateur ou lettre.",
+    "Mercredi : 1 amélioration pack (capture, pitch, mail).",
+    "Vendredi : point ressources (option A/B/C) — 30 min max, sans obsession cash."
+  ],
+  "success_checklist_90": [
+    "Attestation DRIEETS obtenue",
+    "Au moins une porte écosystème documentée (incubateur confirmé ou 2 lettres)",
+    "Pack produit (live + pitch + captures) joint partout",
+    "Pack ressources sans prêt 22 k€ (prise en charge / revenus garant / propres)",
+    "Narrative Athènes unique (Founders ≠ SNEE ≠ FAD)",
+    "France-Visas déposé seulement après DRIEETS"
+  ]
+}

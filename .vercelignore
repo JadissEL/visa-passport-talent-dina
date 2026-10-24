@@ -1,0 +1,15 @@
+.cursor_memory
+.venv
+__pycache__
+*.pyc
+.env
+.env.*
+!.env.example
+data/osint_raw
+data/bd_scrape
+data/osint_alumni_hits.json
+data/mesr_prix_pepite_redacted.json
+scripts
+analyze_visa.py
+docs
+PROJECT_TRACKER.md

@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dossier Visa Dina — DinaResearch · Talent Founders</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,650&family=IBM+Plex+Mono:wght@400;500&family=Source+Sans+3:wght@400;600;650&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./css/styles.css" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect fill='%230b5f4b' width='32' height='32' rx='8'/%3E%3Ctext x='16' y='22' text-anchor='middle' fill='%23fff' font-size='14' font-family='Georgia'%3ED%3C/text%3E%3C/svg%3E" />
+</head>
+<body>
+  <div class="shell">
+    <header class="hero hero-compact">
+      <div>
+        <p class="pill">Dossier opérationnel · Visa France · OSINT 25/10/2026</p>
+        <h1 class="hero-brand">Dina · Talent Founders</h1>
+        <p id="hero-sub" class="hero-lead">Une décision, un plan, les preuves — dans cet ordre.</p>
+      </div>
+      <div class="hero-meta" id="hero-meta"></div>
+    </header>
+
+    <nav class="nav nav-journey" aria-label="Parcours">
+      <button type="button" class="active" data-panel="panel-home">
+        <span class="nav-step">1</span> Accueil
+      </button>
+      <button type="button" data-panel="panel-decide">
+        <span class="nav-step">2</span> Décision
+      </button>
+      <button type="button" data-panel="panel-plan90">
+        <span class="nav-step">3</span> Plan chances
+      </button>
+      <button type="button" data-panel="panel-do">
+        <span class="nav-step">4</span> À faire
+      </button>
+      <button type="button" data-panel="panel-eco">
+        <span class="nav-step">5</span> Écosystème FT
+      </button>
+      <button type="button" data-panel="panel-angles">
+        <span class="nav-step">6</span> Stratégie
+      </button>
+      <button type="button" data-panel="panel-dossier">
+        <span class="nav-step">7</span> Dossier
+      </button>
+    </nav>
+    <div id="progress-strip" class="progress-strip" aria-label="Avancement dossier"></div>
+
+    <!-- 1. ACCUEIL -->
+    <section id="panel-home" class="panel active">
+      <div id="home-root"></div>
+    </section>
+
+    <!-- 2. DÉCISION -->
+    <section id="panel-decide" class="panel">
+      <div class="section-intro card">
+        <h2>Comparer les 3 voies</h2>
+        <p class="muted">La priorité (Talent Founders) est déjà posée sur Accueil. Ici : pourquoi ce score, quels freins, quelle action Next par voie. Ouvre « détail » pour forces / risques.</p>
+      </div>
+      <div id="hyp-banner" class="hyp-banner" hidden></div>
+      <div id="rec" class="rec-banner"></div>
+      <div id="decide-charts" class="viz-row" aria-label="Graphiques décision"></div>
+      <details class="card details-block" id="research-note-wrap" style="margin-bottom:1.25rem">
+        <summary><strong>Repères chiffrés</strong> <span class="muted">— SMIC, 30&nbsp;k€, frais, sigles</span></summary>
+        <p id="research-note" class="research-note" style="margin-top:0.75rem"></p>
+        <dl class="gloss-dl" id="gloss-root"></dl>
+      </details>
+      <div class="grid-2">
+        <article id="card-talent" class="card pathway-preferred"></article>
+        <article id="card-etudes" class="card"></article>
+      </div>
+      <article id="card-createur" class="card" style="margin-top:1.25rem"></article>
+      <details class="card details-block" style="margin-top:1.25rem">
+        <summary><strong>Règles dures & alertes</strong> <span class="muted">— à connaître avant de déposer</span></summary>
+        <div id="alerts" style="margin-top:1rem"></div>
+      </details>
+    </section>
+
+    <!-- 3. PLAN CHANCES -->
+    <section id="panel-plan90" class="panel">
+      <div id="plan90-root"></div>
+    </section>
+
+    <!-- 4. À FAIRE -->
+    <section id="panel-do" class="panel">
+      <div class="section-intro card">
+        <h2>Checklist du jour</h2>
+        <p class="muted">Une seule liste de pièces à avancer. Seuils (€), frais et contacts sont repliés sous « Références utiles » — pas de second plan ailleurs.</p>
+      </div>
+      <div id="exec-root" class="exec-layout"></div>
+    </section>
+
+    <!-- 4. ÉCOSYSTÈME -->
+    <section id="panel-eco" class="panel">
+      <div class="section-intro card">
+        <h2>Écosystème French Tech</h2>
+        <p class="muted">Comment obtenir l’attestation d’innovation (DRIEETS) : 3 portes d’entrée, puis qui contacter et où candidater. Onglet 1 = mode d’emploi · onglet 2 = cibles incubateurs.</p>
+      </div>
+      <div class="subnav" id="eco-subnav" role="tablist">
+        <button type="button" class="active" data-sub="eco-ft">French Tech (doctrine)</button>
+        <button type="button" data-sub="eco-inc">Incubateurs (candidater)</button>
+      </div>
+      <div id="eco-ft" class="subpanel active">
+        <div id="frenchtech-root" class="ft-layout"></div>
+      </div>
+      <div id="eco-inc" class="subpanel" hidden>
+        <div id="incubators-intro" class="card" style="margin-bottom:1.25rem"></div>
+        <div id="incubator-filters" class="filters"></div>
+        <div id="incubators-root" class="incubators-grid"></div>
+        <article class="card" style="margin-top:1.25rem">
+          <h2>Modèle d’email incubateurs</h2>
+          <pre id="incubator-email-tpl" class="email-tpl"></pre>
+          <button type="button" id="copy-email-tpl" class="copy-btn">Copier le modèle</button>
+        </article>
+      </div>
+    </section>
+
+    <!-- 5. STRATÉGIE -->
+    <section id="panel-angles" class="panel">
+      <div id="angles-list-view">
+        <div class="card">
+          <h2>15 angles stratégiques</h2>
+          <p class="muted">Chaque « angle » = une façon d’attaquer le dossier (Founders, lettres, oncle, narrative Athènes…). Les P0 sont ceux à faire en premier. « Voir tout » ouvre le plan d’actions détaillé.</p>
+          <div id="angles-charts" class="viz-row" aria-label="Timeline stratégie"></div>
+          <div id="angle-filters" class="filters"></div>
+          <div id="angles-root" class="angles-grid"></div>
+        </div>
+      </div>
+      <div id="angles-detail-view" class="angle-detail-view" hidden></div>
+    </section>
+
+    <!-- 6. DOSSIER -->
+    <section id="panel-dossier" class="panel">
+      <div class="section-intro card">
+        <h2>Preuves & identité</h2>
+        <p class="muted">Le stock documentaire (pas la décision). Pitch 1 page, profil, mails archivés, sources OSINT — à joindre ou citer dans les dossiers incubateur / DRIEETS / consulat.</p>
+      </div>
+      <div class="subnav" id="dossier-subnav" role="tablist">
+        <button type="button" class="active" data-sub="dos-product">Produit & pitch</button>
+        <button type="button" data-sub="dos-profile">Profil</button>
+        <button type="button" data-sub="dos-emails">Emails</button>
+        <button type="button" data-sub="dos-sources">Sources</button>
+      </div>
+      <div id="dos-product" class="subpanel active">
+        <div id="product-root" class="profile-grid"></div>
+        <article class="card" style="margin-top:1.25rem">
+          <h2>Pitch 1 page</h2>
+          <div id="pitch-root" class="pitch-body"></div>
+        </article>
+      </div>
+      <div id="dos-profile" class="subpanel" hidden>
+        <div id="profile" class="profile-grid"></div>
+      </div>
+      <div id="dos-emails" class="subpanel" hidden>
+        <div class="card">
+          <div id="email-filters" class="filters"></div>
+          <div id="emails"></div>
+        </div>
+      </div>
+      <div id="dos-sources" class="subpanel" hidden>
+        <div id="sources-root" class="card"></div>
+      </div>
+    </section>
+
+    <footer class="footer">
+      Outil local — Gmail + OSINT · Pas un conseil juridique · Consulat Athènes / avocat immigration.
+    </footer>
+  </div>
+  <script src="./js/app.js"></script>
+</body>
+</html>

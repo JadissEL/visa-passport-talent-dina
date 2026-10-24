@@ -1,0 +1,312 @@
+{
+  "updated_at": "2026-10-25",
+  "product": "DinaResearch",
+  "doc": "docs/ANGLES_15_DINARESEARCH.md",
+  "primary": 1,
+  "product_url": "https://dinaresearchmaster.vercel.app",
+  "innovation_claim": "Plateforme d’intelligence marché Maroc (produit/service d’info structuré) + usage data-led + ancrage M2IE/Pépite + live Vercel — définition large French Tech pour L.421-16 2°.",
+  "angles": [
+    {
+      "n": 1,
+      "title": "Talent innovant Founders",
+      "priority": "P0",
+      "tagline": "Pack produit + incubateur FT NA → attestation DRIEETS",
+      "summary": "Rail principal : être sélectionnée par un incubateur/accélérateur partenaire French Tech (ou soutenu Capitale), puis déposer la reconnaissance d’innovation sur demarches-simplifiees (French Tech Visa for Founders).",
+      "usage": "Pack DinaResearch + candidatures Unitec / Technowest / Héméra / Village by CA Aquitaine.",
+      "actions": [
+        "Finaliser one-pager PDF « DinaResearch — projet économique innovant » (FR) + captures live.",
+        "Candidater Unitec (projet@unitec.fr / formulaire), Technowest, Héméra (Typeform), Village by CA Aquitaine.",
+        "Joindre avis SNEE 13/10/2026, lien M2IE, CV Deloitte/ENCG, URL https://dinaresearchmaster.vercel.app.",
+        "Après admission incubateur : dépôt demarches-simplifiees french-tech-visa-for-founders → DRIEETS."
+      ],
+      "success": "Lettre / convention incubateur FT → attestation DRIEETS (L.421-16 2°) → ensuite seulement France-Visas Athènes.",
+      "risks": [
+        "Candidater sans pack produit solide.",
+        "Confondre SNEE/Pépite avec l’avis DRIEETS."
+      ],
+      "links": [
+        { "label": "Onglet Incubateurs", "href": "#panel-incubators" },
+        { "label": "Demarches Founders", "href": "https://www.demarches-simplifiees.fr/commencer/french-tech-visa-for-founders" },
+        { "label": "Pitch 1 page", "href": "./data/project_pack/pitch_1page_fr.md" }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Talent innovant via 2 lettres",
+      "priority": "P0",
+      "tagline": "Sans incubateur : 2 lettres écosystème FT → même dépôt DRIEETS",
+      "summary": "Si aucun incubateur n’accepte encore le dossier, deux lettres de soutien d’acteurs reconnus de l’écosystème French Tech permettent le même dépôt de reconnaissance d’innovation.",
+      "usage": "Réseau Pépite / M2IE / finance / IE pour lettres « écosystème » (pas seulement « accompagnement SNEE »).",
+      "actions": [
+        "Mail pepite@univ-poitiers.fr : demander une lettre de soutien écosystème French Tech datée/signée.",
+        "Obtenir une 2ᵉ lettre : tuteur M2IE (Moinet), alumni/pro Deloitte, ou acteur IE / startup FT.",
+        "Déposer les 2 lettres + pack produit sur demarches Founders (même circuit DRIEETS)."
+      ],
+      "success": "2 lettres datées/signées + attestation innovante DRIEETS.",
+      "risks": [
+        "Lettre trop vague (« encouragement ») sans mention innovation / FT.",
+        "Une seule lettre = insuffisant."
+      ],
+      "links": [
+        { "label": "Pépite Poitiers", "href": "mailto:pepite@univ-poitiers.fr" },
+        { "label": "Demarches Founders", "href": "https://www.demarches-simplifiees.fr/commencer/french-tech-visa-for-founders" }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Capitale French Tech",
+      "priority": "P1",
+      "tagline": "Lettre Capitale Bordeaux si incubateur non listé",
+      "summary": "Si la structure d’accueil n’est pas sur la liste incubateurs partenaires FT, une lettre de la Capitale French Tech (ex. Bordeaux) peut soutenir le projet / l’incubateur local pour le dépôt Founders.",
+      "usage": "French Tech Bordeaux + pack DinaResearch + ancrage NA.",
+      "actions": [
+        "Contacter French Tech Bordeaux (site / LinkedIn) avec pitch + live URL.",
+        "Demander lettre de soutien Capitale ou orientation vers incubateur partenaire.",
+        "Joindre SNEE + intention implantation NA.",
+        "Déposer ensuite sur demarches Founders."
+      ],
+      "success": "Lettre Capitale + attestation DRIEETS.",
+      "risks": ["Compter sur la Capitale sans tenter en parallèle les incubateurs listés (Unitec, Technowest…)."],
+      "links": [
+        { "label": "French Tech Bordeaux", "href": "https://www.frenchtechbordeaux.com/" },
+        { "label": "Business France FT", "href": "mailto:welcometolafrenchtech@businessfrance.fr" }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Talent créateur 30 k€",
+      "priority": "P2",
+      "tagline": "Plan B uniquement si financement ≥ 30 000 € (R.421-33-2)",
+      "summary": "Voie L.421-16 1° + R.421-33-2 : master/XP OK pour Dina, mais il faut un investissement / financement documenté ≥ 30 000 € et un avis ministère de l’Économie. Ce n’est PAS requis pour Founders innovant.",
+      "usage": "Uniquement si capital 30 k€ disponible ; produit = preuve « réel et sérieux ».",
+      "actions": [
+        "Vérifier capacité de financement documentable ≥ 30 000 €.",
+        "Préparer BP + preuves fonds + avis Économie.",
+        "Ne pas mélanger les pièces avec le rail Founders (pas de 30 k€ requis en innovant)."
+      ],
+      "success": "Financement prouvé + avis Économie + titre Talent créateur.",
+      "risks": ["Bloquer le plan A Founders en poursuivant un 30 k€ inaccessible."],
+      "links": [
+        { "label": "Service-Public Talent", "href": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16922" }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Entrepreneur / profession libérale",
+      "priority": "P2",
+      "tagline": "Viabilité commerciale DinaResearch + ressources type SMIC",
+      "summary": "Carte séjour entrepreneur / profession libérale (souvent 1 an) si activité commerciale démontrable et ressources suffisantes — utile si DRIEETS et 30 k€ sont bloqués.",
+      "usage": "Abonnements B2B, recherches commanditées, /connect — BP revenus.",
+      "actions": [
+        "Rédiger BP revenus (abonnements, études, partenariats).",
+        "Documenter ressources ≥ seuil type SMIC.",
+        "Consulter fiche Service-Public F35795 et consulat Athènes pour pièces exactes."
+      ],
+      "success": "Dossier viabilité accepté → carte 1 an (renouvelable selon cas).",
+      "risks": ["Moins protecteur / moins long que Talent innovant 4 ans."],
+      "links": [
+        { "label": "F35795 Service-Public", "href": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35795" }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "VLS-TS études hybride",
+      "priority": "P2 filet",
+      "tagline": "Filet FAD : attestation présence IAE + lettre Pépite Poitiers",
+      "summary": "M2IE est en FAD : un VLS études sur FAD 100 % distante est à haut risque de refus. Le filet exige de documenter une présence physique (examens, séminaires, mentorat Pépite sur site).",
+      "usage": "Attestations IAE (Lespe/Moinet) + lettre Pépite présence Poitiers + garant oncle.",
+      "actions": [
+        "Demander attestation IAE listant obligations de présence 2026/2027 (séminaires, examens, regroupements).",
+        "Lettre Pépite confirmant accompagnement / présence site Poitiers.",
+        "Ne pas déposer VLS études sur FAD seule sans ces pièces.",
+        "Garder ce rail comme filet, pas comme plan A."
+      ],
+      "success": "Présence documentée + inscription + ressources étudiant (≥ 877,5 €/mois via oncle).",
+      "risks": [
+        "FAD pure = refus (pratique préfectorale / CAA Toulouse 25TL01480).",
+        "Titre étudiant limite l’auto-entreprise."
+      ],
+      "links": [
+        { "label": "Nadine Lespe", "href": "mailto:nadine.lespe@univ-poitiers.fr" },
+        { "label": "Nicolas Moinet", "href": "mailto:nicolas.moinet@univ-poitiers.fr" }
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Packaging garant oncle FR",
+      "priority": "P0 transverse",
+      "tagline": "CNI + hébergement + prise en charge + preuves ≥ seuil",
+      "summary": "L’oncle français est la seule preuve financière déclarée du dossier. Il faut formaliser les pièces consulaires — ce rail traverse Talent et études.",
+      "usage": "Commun à tous les dépôts Athènes.",
+      "actions": [
+        "CNI ou passeport FR de l’oncle.",
+        "Attestation d’hébergement + prise en charge pour l’année.",
+        "Justificatifs ressources (bulletins / avis d’impôt) avec montant explicite.",
+        "Seuil Talent : ≥ 22 404,20 €/an (SMIC 01/06/2026) · Études : ≥ 877,5 €/mois."
+      ],
+      "success": "Dossier garant complet prêt à joindre France-Visas / Consulat.",
+      "risks": ["Déclarer le soutien sans pièces formelles = rejet consulaire."],
+      "links": [
+        { "label": "Onglet Exécution (seuils)", "href": "#panel-exec" }
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Narrative consulaire Athènes",
+      "priority": "P0",
+      "tagline": "Message unifié : SNEE ≠ visa ; Talent après DRIEETS",
+      "summary": "Le Consulat doit lire un message clair : projet DinaResearch + SNEE (accompagnement) + droit au séjour fondé sur L.421-16 2° et l’attestation DRIEETS — pas sur le SNEE seul.",
+      "usage": "Texte France-Visas / lettre de motivation + procédure Athènes.",
+      "actions": [
+        "Rédiger le message type (ci-dessous) dans France-Visas.",
+        "Générer le PDF France-Visas puis mail RDV : admin-etrangers.athenes-amba@diplomatie.gouv.fr.",
+        "Dépôt mercredi (créneaux consulat) · frais ~99 €.",
+        "Uniquement APRÈS obtention attestation DRIEETS."
+      ],
+      "success": "RDV obtenu + dépôt cohérent Talent innovant.",
+      "risks": ["Déposer avant DRIEETS ; invoquer Vevaiosi comme titre voyage Schengen."],
+      "narrative": "Porteuse du projet DinaResearch (plateforme d’intelligence marché Maroc, live), titulaire du SNEE Pépite Nord-Aquitain (13/10/2026), inscrite M2IE IAE Poitiers. Demande VLS Talent — projet économique innovant sur la base de l’attestation DRIEETS jointe. Le SNEE prouve l’accompagnement ; le droit au séjour repose sur L.421-16 2° + avis public.",
+      "links": [
+        { "label": "Mail visas Athènes", "href": "mailto:admin-etrangers.athenes-amba@diplomatie.gouv.fr" },
+        { "label": "France-Visas Grèce", "href": "https://france-visas.gouv.fr/grece" }
+      ]
+    },
+    {
+      "n": 9,
+      "title": "Court séjour tactique",
+      "priority": "P3",
+      "tagline": "Pitch incubateurs ≤ 90 j si titre grec définitif",
+      "summary": "Voyage court pour RDV incubateurs Bordeaux / Pépite Poitiers — uniquement avec un titre grec permettant le voyage Schengen (pas une simple Vevaiosi).",
+      "usage": "Signatures lettres / pitch en présentiel — pas une installation.",
+      "actions": [
+        "Vérifier le titre de séjour grec (définitif / voyage UE).",
+        "Planifier ≤ 90 j : Unitec/Technowest/Pépite.",
+        "Ne pas présenter ce séjour comme installation en France."
+      ],
+      "success": "Lettres / accords signés en présentiel.",
+      "risks": ["Voyager sur Vevaiosi ; dépasser 90 j."],
+      "links": [
+        { "label": "Onglet Incubateurs", "href": "#panel-incubators" }
+      ]
+    },
+    {
+      "n": 10,
+      "title": "Soft landing 4–6 mois",
+      "priority": "P0 planning",
+      "tagline": "Séquence : incubateurs → DRIEETS → Athènes",
+      "summary": "Planning e2e réaliste pour éviter de brûler l’étape consulaire trop tôt.",
+      "usage": "Calendrier produit + visa.",
+      "actions": [
+        "Mois 0–1 : pack DinaResearch + candidatures incubateurs / lettres.",
+        "Mois 1–2 : dépôt DRIEETS (délai ~8 j à 2 mois si incomplet).",
+        "En parallèle : D2E (rentrée ~3 nov) + pièces oncle.",
+        "Mois 2–4 : France-Visas Athènes + RDV.",
+        "Mois 4–6 : arrivée + validation VLS-TS / carte."
+      ],
+      "success": "Séquence respectée sans dépôt Athènes prématuré.",
+      "risks": ["Inverser DRIEETS et France-Visas."],
+      "timeline": [
+        { "when": "0–1 mois", "what": "Pack + candidatures incubateurs / lettres" },
+        { "when": "1–2 mois", "what": "Dépôt DRIEETS" },
+        { "when": "//", "what": "D2E rentrée + pièces oncle" },
+        { "when": "2–4 mois", "what": "France-Visas Athènes + RDV" },
+        { "when": "4–6 mois", "what": "Arrivée + validation titre" }
+      ],
+      "links": [
+        { "label": "Onglet Exécution", "href": "#panel-exec" }
+      ]
+    },
+    {
+      "n": 11,
+      "title": "Pack innovation large",
+      "priority": "P0",
+      "tagline": "Artefact unique pour DRIEETS / incubateurs",
+      "summary": "Constituer le dossier produit dans data/project_pack/ : preuves concrètes que DinaResearch est un projet économique innovant (pas un blog).",
+      "usage": "Pièces jointes communes angles 1–3.",
+      "actions": [
+        "pitch_1page_fr.md → PDF.",
+        "Screenshots : home, intelligence, article, stack.",
+        "Schéma architecture Next/Prisma/Neon.",
+        "Roadmap France (desks, clients, partenariats FT/Pépite).",
+        "Metrics : articles, topics, contact Resend /connect."
+      ],
+      "success": "Pack complet prêt à joindre incubateur + DRIEETS.",
+      "risks": ["Pitch sans captures live = faible crédibilité."],
+      "links": [
+        { "label": "Pitch (UI DinaResearch)", "href": "#panel-product" },
+        { "label": "Live", "href": "https://dinaresearchmaster.vercel.app" }
+      ]
+    },
+    {
+      "n": 12,
+      "title": "RECE post-diplôme",
+      "priority": "Roadmap",
+      "tagline": "Après séjour / diplôme FR — pas une entrée 2026",
+      "summary": "Le RECE (création d’entreprise liée à la formation) n’est pas une porte d’entrée immédiate depuis Athènes en 2026. Garder DinaResearch comme dossier futur post-diplôme FR.",
+      "usage": "Roadmap long terme uniquement.",
+      "actions": [
+        "Ne pas construire le plan 2026 sur le RECE.",
+        "Archiver l’option pour après diplôme / séjour FR."
+      ],
+      "success": "Option notée, non priorisée.",
+      "risks": ["Retarder Founders en attendant un diplôme FR."],
+      "links": []
+    },
+    {
+      "n": 13,
+      "title": "Talent salarié JEI",
+      "priority": "Alt.",
+      "tagline": "Recrutement startup innovante FR (CV Deloitte)",
+      "summary": "Alternative : contrat dans une entreprise innovante / JEI en France (salaire seuil) pendant que DinaResearch reste side-project. Rail séparé du Founders.",
+      "usage": "CV Deloitte + compétences IE/data.",
+      "actions": [
+        "Candidater startups FR innovantes / JEI si Founders bloque.",
+        "Vérifier seuils salariaux Talent salarié.",
+        "Ne pas mélanger avec dépôt Founders."
+      ],
+      "success": "Offre + titre Talent salarié.",
+      "risks": ["Dilue le focus Founders si lancé trop tôt."],
+      "links": []
+    },
+    {
+      "n": 14,
+      "title": "CAPE post-titre",
+      "priority": "Post",
+      "tagline": "Tester monétisation après obtention du titre — ≠ visa",
+      "summary": "Le CAPE permet de tester une activité sous structure d’appui une fois un titre Talent/entrepreneur obtenu. Ce n’est pas une voie d’entrée.",
+      "usage": "Post-installation uniquement.",
+      "actions": [
+        "Après titre : évaluer CAPE pour monétiser DinaResearch.",
+        "Ne pas citer CAPE dans le dossier visa Athènes comme fondement."
+      ],
+      "success": "Test activité sécurisé post-titre.",
+      "risks": ["Présenter CAPE comme substitut visa."],
+      "links": []
+    },
+    {
+      "n": 15,
+      "title": "Triple rail exécutif",
+      "priority": "P0",
+      "tagline": "A Founders · B études filet · C créateur — une base docs",
+      "summary": "Exécuter en parallèle contrôlée : plan A Founders, filet études hybride, plan B créateur seulement si 30 k€. Une seule base documentaire partagée.",
+      "usage": "Pilotage global du dossier.",
+      "actions": [
+        "Rail A (P0) : pack + incubateur/lettres → DRIEETS.",
+        "Rail B (filet) : attestation IAE présence + oncle.",
+        "Rail C (si 30 k€) : R.421-33-2 + avis Économie.",
+        "Mettre à jour checklist_pieces.json à chaque jalon."
+      ],
+      "success": "Au moins un rail aboutit sans dispersion.",
+      "risks": ["Poursuivre les 3 rails à fond sans prioriser A."],
+      "rails": [
+        { "id": "A", "name": "Founders", "priority": "P0", "killer": "Attestation DRIEETS" },
+        { "id": "B", "name": "Études hybride", "priority": "P2 filet", "killer": "Présence IAE documentée + oncle" },
+        { "id": "C", "name": "Créateur 30 k€", "priority": "P2", "killer": "R.421-33-2 + avis Économie" }
+      ],
+      "links": [
+        { "label": "Checklist", "href": "#panel-exec" },
+        { "label": "Doc angles", "href": "./docs/ANGLES_15_DINARESEARCH.md" }
+      ]
+    }
+  ]
+}

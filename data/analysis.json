@@ -1,0 +1,301 @@
+{
+  "candidate": "Dina Bouabdallah",
+  "generated_at": "2026-10-24",
+  "assumption": {
+    "d2e_inscrit": true,
+    "note": "État réel au 24/10/2026 : D2E non encore inscrit. L'étude score comme si l'inscription est faite (rentrée 3 nov + dossier complet)."
+  },
+  "research_integrated": {
+    "from": [
+      "docs/SNEE_ET_VISAS.md",
+      "docs/D2E_ET_VISAS.md",
+      "docs/PEPITE_ET_VISAS.md",
+      "docs/MATRICE_SNEE_VISAS.md",
+      "docs/MATRICE_D2E_VISAS.md",
+      "docs/MATRICE_PEPITE_VISAS.md",
+      "docs/APPLICATION_DOSSIER_DINA.md",
+      "docs/ALUMNI_PEPITE_SUCCES.md",
+      "docs/SOURCES.md",
+      "docs/CV_DINA.md",
+      "data/cv.json"
+    ],
+    "integrated_at": "2026-10-24"
+  },
+  "pathways": {
+    "etudes": {
+      "id": "etudes",
+      "title": "Visa long séjour — Études (VLS-TS Étudiant)",
+      "score": 50.8,
+      "verdict": "Possible seulement si présence IAE/Pépite documentée",
+      "strengths": [
+        "Inscription M2IE IAE Poitiers réelle (avis favorable + paiement).",
+        "SNEE + (hyp.) D2E = ancrage territorial Poitiers (complément, pas motif seul).",
+        "Certificat de scolarité IRIS disponible.",
+        "Oncle FR : garant logement + financier année entière ; ressources suffisantes ; docs à la demande."
+      ],
+      "risks": [
+        "FAD : risque élevé de refus (préfectures / docs agents).",
+        "Sans attestation IAE de présence obligatoire → dossier fragile.",
+        "Pas d'auto-entreprise sous titre étudiant (incompatible projet commercial).",
+        "Financement = uniquement garant oncle (pas d'autres preuves ressources Dina) — formaliser pièces Consulat."
+      ],
+      "next_actions": [
+        "Obtenir attestation IAE (Lespe / Moinet) sur obligations de présence 2026/2027.",
+        "Lettre Pépite confirmant accompagnement sur site Poitiers.",
+        "Collecter dossier oncle FR : CNI/passeport + attestation hébergement/prise en charge + justificatifs ressources.",
+        "Ne pas déposer VLS études sur FAD seule sans attestation présence IAE."
+      ],
+      "criteria": [
+        {
+          "id": "admission",
+          "label": "Admission / inscription universitaire réelle",
+          "weight": 1.4,
+          "score": 92,
+          "note": "Avis favorable e-Candidat 24/06/2026 + inscription coût pédagogique 1400€ + certificat IRIS."
+        },
+        {
+          "id": "presence",
+          "label": "Présence physique / formation éligible VLS études",
+          "weight": 2.2,
+          "score": 38,
+          "note": "M2IE = FAD. Pratique préfectorale (docs/SOURCES, D2E_ET_VISAS) : FAD pure souvent refusée pour titre étudiant. Sous hypothèse D2E : présence Pépite/rentrée peut aider l'argument — sans attestation IAE de présence obligatoire, risque reste élevé."
+        },
+        {
+          "id": "iae_attestation",
+          "label": "Attestation IAE obligations de présence 2026/2027",
+          "weight": 1.5,
+          "score": 20,
+          "note": "Action ouverte (APPLICATION_DOSSIER_DINA / tracker) : demander à Lespe / Moinet une attestation listant séminaires, examens, regroupements."
+        },
+        {
+          "id": "docs",
+          "label": "Pièces scolaires (certificat, carte, CVEC)",
+          "weight": 1.0,
+          "score": 75,
+          "note": "Certificat IRIS ; carte étudiante — adresse FR recommandée (mail Nadine 15/10)."
+        },
+        {
+          "id": "resources",
+          "label": "Ressources ≥ ~877,5 €/mois + logement",
+          "weight": 1.0,
+          "score": 89.0,
+          "note": "Oncle de Dina (nationalité Française) : ressources suffisantes déclarées ; logement + prise en charge financière pour toute l'année (déclaré 2026-10-24). Prêt à délivrer tout document nécessaire. Seule preuve financière du dossier (pas d'autres justificatifs ressources Dina). Couvre ≥ 877,5 €/mois + logement sous réserve d'attestation d'hébergement / prise en charge + preuves ressources du garant (Consulat Athènes)."
+        },
+        {
+          "id": "auto_entreprise",
+          "label": "Compatibilité activité entrepreneuriale",
+          "weight": 1.0,
+          "score": 15,
+          "note": "Docs SNEE/D2E : carte étudiant interdit l'auto-entrepreneur — projet commercial = hors cadre études."
+        },
+        {
+          "id": "coherence",
+          "label": "Cohérence séjour pour suivre des études en France",
+          "weight": 1.1,
+          "score": 42,
+          "note": "FAD depuis Athènes vs besoin de résidence pour « suivre » le diplôme."
+        }
+      ]
+    },
+    "talent": {
+      "id": "talent_innovant",
+      "title": "Talent — projet économique innovant",
+      "score": 68.1,
+      "verdict": "Stratégique mais bloqué sans avis DRIEETS/French Tech",
+      "strengths": [
+        "SNEE positif + (hyp.) D2E = faisceau académique fort (crédibilité, pas titre).",
+        "Projet nommé + URL + profil Deloitte/IE.",
+        "Aligné recommandation APPLICATION_DOSSIER (voie stratégique).",
+        "Consulat Athènes déjà contacté.",
+        "Oncle FR : ressources suffisantes + garant logement/financier année ; prêt à tout document Consulat."
+      ],
+      "risks": [
+        "KILLER : pas d'avis DRIEETS / French Tech Founders — SNEE/D2E ne le remplacent pas.",
+        "Ressources SMIC : seule preuve = oncle FR (pas d'autres preuves Dina) — pièces encore à produire.",
+        "Hypothèse D2E à réaliser avant dépôt.",
+        "Ne pas confondre lettre Pépite avec reconnaissance « innovant »."
+      ],
+      "next_actions": [
+        "Candidater incubateur partenaire French Tech OU obtenir 2 lettres écosystème.",
+        "Déposer attestation innovante DRIEETS (demarches-simplifiees french-tech-visa-for-founders).",
+        "Réaliser D2E (rentrée 3 nov) + archiver SNEE (complément, pas substitut DRIEETS).",
+        "Dossier oncle FR (identité + prise en charge ≥ 22 404,20 €/an + logement) puis France-Visas Athènes."
+      ],
+      "criteria": [
+        {
+          "id": "snee",
+          "label": "SNEE (crédibilité Pépite / MESR) — pas un visa",
+          "weight": 1.4,
+          "score": 88,
+          "note": "Avis positif 13/10/2026 — DIN6AC843CA / 6AC845699E9. MATRICE : SNEE ●●● utile ; ne donne aucun droit de séjour (SNEE_ET_VISAS)."
+        },
+        {
+          "id": "d2e",
+          "label": "Inscription D2E (crédibilité formation entrepreneuriale)",
+          "weight": 1.2,
+          "score": 85,
+          "note": "Hypothèse : D2E inscrit. MATRICE_D2E : ●●● pour Talent innovant, mais D2E ✗ seul (ne remplace pas avis public)."
+        },
+        {
+          "id": "pepite",
+          "label": "Accompagnement Pépite / alumni continuum",
+          "weight": 1.0,
+          "score": 80,
+          "note": "Pépite Nord-Aquitain + 24h Bpifrance. Alumni (ALUMNI_PEPITE_SUCCES) = continuum d'accompagnement, pas preuve juridique."
+        },
+        {
+          "id": "project",
+          "label": "Projet économique documenté (DinaResearch)",
+          "weight": 1.3,
+          "score": 82,
+          "note": "Produit live https://dinaresearchmaster.vercel.app — Morocco market intelligence (Next/Prisma/Vercel). Pack: data/project_pack/ + docs/ANGLES_15_DINARESEARCH.md. Aligné M2IE + CV Deloitte/IE."
+        },
+        {
+          "id": "drieets",
+          "label": "Avis organisme public / French Tech Founders (KILLER)",
+          "weight": 2.4,
+          "score": 18,
+          "note": "Base L.421-16 2° CESEDA (ex-L.421-17). DRIEETS demarches french-tech-visa-for-founders (incubateur FT partenaire — Héméra/Unitec/Technowest/Village CA en NA — OU 2 lettres). Stats ~8 j–2 mois. SNEE/D2E/Pépite ≠ attestation. Contact drieets-idf.passeports-talent@…"
+        },
+        {
+          "id": "resources_smic",
+          "label": "Ressources ≥ SMIC annuel (22 404,20 € au 1er juin 2026)",
+          "weight": 1.2,
+          "score": 86.0,
+          "note": "Oncle de Dina (nationalité Française) : ressources suffisantes déclarées ; logement + prise en charge financière pour toute l'année (déclaré 2026-10-24). Prêt à délivrer tout document nécessaire. Seule preuve financière du dossier (pas d'autres justificatifs ressources Dina). Couvre le seuil SMIC annuel 22 404,20 € (1er juin 2026) sous réserve de justificatifs du garant acceptés par Consulat Athènes."
+        },
+        {
+          "id": "consulate",
+          "label": "Procédure Consulat Athènes",
+          "weight": 0.9,
+          "score": 65,
+          "note": "Échanges 20–23/10 ; récépissé grec a priori OK pour dépôt VLS. Obtenir avis innovant AVANT RDV Athènes."
+        },
+        {
+          "id": "profile",
+          "label": "Profil Master ENCG + Deloitte + M2IE",
+          "weight": 1.0,
+          "score": 84,
+          "note": "CV importé (autres agents) : ~2 ans Deloitte Risk/Transactions — crédible pour plateforme data/IE."
+        },
+        {
+          "id": "honesty",
+          "label": "Formulation officielle (pas de confusion SNEE=visa)",
+          "weight": 1.1,
+          "score": 75,
+          "note": "Hypothèse D2E : formulation MATRICE_D2E OK (« inscrite au D2E… ») — jamais « le D2E / SNEE donne droit au Talent »."
+        }
+      ]
+    },
+    "talent_createur": {
+      "id": "talent_createur",
+      "title": "Talent — créateur d'entreprise (R.421-33-2 ≥ 30 k€)",
+      "score": 53.2,
+      "verdict": "Plan B seulement si 30 k€ (R.421-33-2) + avis Économie démontrables",
+      "strengths": [
+        "Diplôme master + expérience Deloitte.",
+        "SNEE/(hyp.) D2E crédibilisent le sérieux du projet."
+      ],
+      "risks": [
+        "Investissement ≥ 30 000 € non prouvé.",
+        "Attestation ministère Économie absente."
+      ],
+      "next_actions": [
+        "Évaluer capacité réelle d'investissement ≥ 30 k€.",
+        "Si oui : dossier attestation « réel et sérieux » + SNEE/D2E en pièces jointes.",
+        "Sinon : abandonner cette mention et prioriser Talent innovant (avis public)."
+      ],
+      "criteria": [
+        {
+          "id": "diploma_exp",
+          "label": "Master ou 5 ans d'expérience",
+          "weight": 1.5,
+          "score": 90,
+          "note": "Master ENCG Marrakech + ~2 ans Deloitte — critère diplôme/exp. rempli (MATRICE_SNEE)."
+        },
+        {
+          "id": "investment",
+          "label": "Investissement personnel ≥ 30 000 €",
+          "weight": 2.5,
+          "score": 35,
+          "note": "Condition dure APPLICATION_DOSSIER Option C — capacité non documentée dans le dossier actuel."
+        },
+        {
+          "id": "attestation_eco",
+          "label": "Attestation « réel et sérieux » ministère Économie",
+          "weight": 2.0,
+          "score": 20,
+          "note": "MATRICE_D2E : attestation min. Économie obligatoire — absente."
+        },
+        {
+          "id": "snee_d2e",
+          "label": "SNEE / D2E comme sérieux du projet",
+          "weight": 1.2,
+          "score": 82,
+          "note": "Complément utile (●●●) — ne remplace pas les 30 k€ ni l'attestation Économie."
+        },
+        {
+          "id": "project",
+          "label": "Projet de création réel",
+          "weight": 1.2,
+          "score": 72,
+          "note": "Dina's research — https://dinaresearchmaster.vercel.app."
+        }
+      ]
+    }
+  },
+  "recommendation": {
+    "preferred_id": "talent_innovant",
+    "preferred_title": "Talent — projet économique innovant",
+    "score_gap": 17.3,
+    "hypothesis": {
+      "d2e_inscrit": true,
+      "label": "Étude sous hypothèse : Dina s'inscrit au D2E"
+    },
+    "integrated_research": true,
+    "hard_rules": [
+      "SNEE n'est pas un visa ni un titre de séjour.",
+      "D2E n'est pas un visa ; il ne remplace pas l'avis organisme public Talent innovant.",
+      "SNEE / Pépite ≠ attestation DRIEETS / French Tech Founders.",
+      "FAD 100% distante = risque élevé de refus VLS-TS Études (pratique préfectorale Tarn-et-Garonne + CAA Toulouse).",
+      "Sous titre étudiant : pas d'auto-entrepreneur (964 h salarié max).",
+      "Talent innovant : attestation DRIEETS via demarches-simplifiees (incubateur FT OU 2 lettres) + ressources ≥ SMIC annuel 22 404,20 € (1er juin 2026).",
+      "Talent créateur : master/XP + financement ≥ 30 000 € (R.421-33-2) + ressources ≥ SMIC — PAS requis pour innovant Founders.",
+      "Ressources étudiant Service-Public : ≥ 877,5 €/mois.",
+      "Consulat Athènes : RDV par mail après PDF France-Visas ; Vevaiosi ≠ voyage Schengen ; dépôt mercredi 08:30-13:30.",
+      "D2E Poitiers : SNEE année en cours obligatoire pour y accéder (univ-poitiers.fr).",
+      "RECE : pas porte d'entrée immédiate (diplôme FR typique)."
+    ],
+    "priority_order_docs": [
+      "Packager DinaResearch (pitch_1page + captures) — docs/ANGLES_15_DINARESEARCH.md",
+      "Candidater incubateurs FT NA: Héméra (typeform), Unitec, Technowest, Village by CA — OU 2 lettres écosystème",
+      "Déposer attestation DRIEETS (L.421-16 2°) demarches french-tech-visa-for-founders — ~8 j à 2 mois",
+      "Réaliser D2E (rentrée 3 nov) + archiver SNEE (complément, pas substitut)",
+      "Attestation IAE présence FAD (filet études — CAA Toulouse 25TL01480 = risque FAD 100%)",
+      "Formaliser garant oncle (logement + financier année entière) : attestation + justificatifs ≥ SMIC 22 404,20 €/an puis France-Visas Athènes (99 € VLS)",
+      "Évaluer 30 k€ (L.421-16 1° créateur) comme plan B seulement"
+    ],
+    "summary": "Synthèse emails + docs des autres agents (SNEE/D2E/PEPITE/APPLICATION_DOSSIER) : sous hypothèse D2E, la voie stratégique reste Talent « projet innovant », mais le scoring intègre désormais le frein DRIEETS/French Tech (SNEE/D2E ≠ avis public). Études : FAD = risque élevé sauf attestation IAE de présence. Talent créateur : plan B si ≥ 30 k€. RECE : pas une porte d'entrée immédiate.",
+    "do_not": [
+      "Croire que SNEE ou D2E = visa / titre / avis Talent innovant.",
+      "Déposer VLS études sur FAD 100 % sans attestation de présence IAE.",
+      "Déposer Talent innovant sans avis DRIEETS / French Tech.",
+      "Affirmer D2E inscrit sans pièces ; dire « le D2E donne droit au Talent »."
+    ]
+  },
+  "email_counts": {
+    "iae_admission": 37,
+    "pepite_snee_d2e": 6,
+    "visa_consulat": 4
+  },
+  "alerts": [
+    "Hypothèse D2E actif pour le scoring — réaliser concrètement (rentrée 3 nov + dossier) avant dépôt.",
+    "INTÉGRATION RECHERCHE AGENTS : SNEE/D2E/Pépite ne remplacent pas DRIEETS / French Tech Founders.",
+    "FAD pure → risque élevé VLS-TS Études (SOURCES + D2E_ET_VISAS) — demander attestation présence IAE.",
+    "Talent créateur = plan B seulement si investissement ≥ 30 000 € démontrable.",
+    "RECE non disponible comme première entrée depuis Athènes (APPLICATION_DOSSIER).",
+    "Règle docs : SNEE n'est pas un visa ni un titre de séjour.",
+    "Règle docs : D2E n'est pas un visa ; il ne remplace pas l'avis organisme public Talent innovant.",
+    "Règle docs : SNEE / Pépite ≠ attestation DRIEETS / French Tech Founders."
+  ]
+}

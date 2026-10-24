@@ -1,0 +1,131 @@
+{
+  "source_pdf": "data/cv/Dina_CV.pdf",
+  "source_extract": "data/cv/extract.txt",
+  "imported_at": "2026-10-24",
+  "person": {
+    "full_name": "Dina Bouabdallah",
+    "date_of_birth": "2000-03-08",
+    "date_of_birth_fr": "08/03/2000",
+    "age": 26,
+    "email": "dinabouabdallah08@gmail.com",
+    "phone": "+30 694 380 3290",
+    "linkedin": "https://linkedin.com/in/dina-bouabdallah",
+    "website": "https://dinaresearchmaster.vercel.app",
+    "location": "Athens, Greece",
+    "mobility": "Open to EU / international roles"
+  },
+  "headline": "Investment Banking · PE · Hedge Funds · Strategy Consulting",
+  "summary": "Environnements où allocation de capital, insight concurrentiel et analyse rigoureuse se rencontrent (IB, hedge funds, PE, conseil stratégique, boutiques, startups). Parcours Deloitte Strategy & Transactions et Risk Advisory (dont QCE) : mandats de conformité capital multi-millions d'euros, dashboards investment-grade, due diligence data, revues de risque quantitatives. Master Accounting & Finance (ENCG) + M2 Intelligence Économique IAE Poitiers (FAD) en cours.",
+  "core_competencies": {
+    "investment_transactions": [
+      "Financial Modelling",
+      "Business Valuation",
+      "Due Diligence",
+      "Capital Markets",
+      "Corporate Finance",
+      "Investment Analysis"
+    ],
+    "strategy_advisory": [
+      "Strategic Analysis",
+      "Risk Assessment",
+      "Internal Controls",
+      "IFRS Reporting",
+      "QCE Evaluation",
+      "Compliance Audit"
+    ],
+    "analytics_tools": [
+      "Data Analytics",
+      "Qlik Sense",
+      "Advanced Excel",
+      "Econometrics",
+      "Prescriptive Analytics",
+      "Variance Analysis"
+    ]
+  },
+  "education": [
+    {
+      "degree": "Master 2 — Intelligence Économique (M2IE)",
+      "institution": "IAE de Poitiers",
+      "mode": "Formation à distance (FAD)",
+      "period": "Sep 2026 – en cours",
+      "status": "in_progress"
+    },
+    {
+      "degree": "Master's Degree (FMA) — Accounting & Finance",
+      "institution": "ENCG Marrakech",
+      "period": "Oct 2020 – Jun 2023",
+      "status": "completed"
+    },
+    {
+      "degree": "Classes Préparatoires (ECT) — Economics & Quantitative Maths",
+      "institution": "Lycée Moulay Idriss",
+      "period": "2018 – 2020",
+      "status": "completed"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Experienced Junior Consultant & Quality Control Evaluator",
+      "employer": "Deloitte Greece",
+      "division": "Risk Advisory & Internal Audit",
+      "period": "Feb 2025 – Jul 2026",
+      "notes": ["Promoted Jul 2025", "QCE Appointed May 2025"],
+      "highlights": [
+        "Quality Control Evaluations (healthcare compliance) — standards réglementaires et risque",
+        "Analyse de cas de conformité complexes : extraction/validation/réconciliation automatisées, quantification du risque financier",
+        "Frameworks de contrôle interne + automation QC → insights exécutifs"
+      ]
+    },
+    {
+      "title": "Junior Consultant and Financial Analyst",
+      "employer": "Deloitte Greece",
+      "division": "Strategy, Risk & Transactions Advisory",
+      "period": "Aug 2024 – Feb 2025",
+      "highlights": [
+        "Audits de contrôles financiers / conformité pour mandats de financement public multi-millions d'euros",
+        "Automation Advanced Excel pour agrégation, nettoyage et modélisation (analogie data-room DD)",
+        "Dashboards Qlik Sense + Excel pour KPI temps réel et décision"
+      ]
+    },
+    {
+      "title": "Financial Products and Platform Advisor",
+      "employer": "Assistwise",
+      "division": "Financial Trading Platform",
+      "period": "May 2024 – Jun 2024",
+      "highlights": [
+        "Conseil sur instruments financiers et mécanique de plateforme de trading",
+        "Reporting client structuré et négociation d'accords de service"
+      ]
+    },
+    {
+      "title": "Ambassador and Financial Sciences Educator",
+      "employer": "Superprof",
+      "period": "Jul 2023 – Present",
+      "highlights": [
+        "Enseignement : Financial Modelling, Econometrics, Financial Mathematics, Macro/Microeconomics"
+      ]
+    },
+    {
+      "title": "Management Controller (Internship)",
+      "employer": "Al Barid Bank",
+      "division": "Regulated Banking Environment",
+      "period": "Jan 2023 – May 2023",
+      "highlights": [
+        "Planification financière, analyse d'écarts, suivi budgétaire",
+        "Packages de reporting mensuel pour la direction"
+      ]
+    }
+  ],
+  "certifications": [
+    "Lean Six Sigma — Yellow Belt (Process Efficiency & Optimization)",
+    "Business Analytics: Prescriptive Analytics (Decision Modelling)",
+    "Qlik Sense — Data Ingestion & Visualization (Financial Dashboarding)",
+    "Audit & Due Diligence Foundations (Operational & Financial DD)",
+    "Advanced Visio — Data Visualization (Executive Process Mapping)"
+  ],
+  "languages": [
+    { "language": "English", "level": "Full Professional" },
+    { "language": "French", "level": "Native" },
+    { "language": "Arabic", "level": "Native" }
+  ]
+}

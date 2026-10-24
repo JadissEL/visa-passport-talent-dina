@@ -1,0 +1,530 @@
+{
+  "updated_at": "2026-10-25",
+  "product": "DinaResearch",
+  "product_url": "https://dinaresearchmaster.vercel.app",
+  "product_fit_summary": "Intelligence de marché Maroc (markets, companies, investors, startups, initiatives, events) — stack Next.js/Prisma/Neon/Vercel ; roadmap outils & agents AI (recherche, AEO, enrichment). Ancrage FR : M2IE IAE Poitiers + SNEE Pépite Nord-Aquitain.",
+  "visa_rule": "French Tech Visa for Founders (L.421-16 2°) : incubateur/accélérateur partenaire French Tech OU lettre Capitale FT OU 2 lettres d’acteurs écosystème → puis dépôt demarches-simplifiees → attestation DRIEETS. Les programmes Maroc / Grèce / Station F hors liste FT n’ouvrent PAS seuls le visa — ils renforcent traction, lettres et narrative innovation.",
+  "pitch_one_liner": "DinaResearch structure l’intel marché Maroc pour desks Europe/francophonie ; nous ajoutons une couche AI (agents de recherche, synthèse, discovery) et cherchons un ancrage French Tech pour scaler depuis la France.",
+  "sources_note": "Contacts vérifiés via Tavily / Bright Data / sites officiels 25/10/2026 — toujours reconfirmer les appels à candidatures (dates variables).",
+  "tiers": [
+    {
+      "id": "p0_visa",
+      "label": "P0 — Priorité visa Talent innovant (NA / FT)",
+      "purpose": "Sélection incubateur FT ou lettre Capitale → dépôt DRIEETS"
+    },
+    {
+      "id": "p1_france",
+      "label": "P1 — France nationale (traction + éventuelle voie FT / lettres)",
+      "purpose": "Crédibilité nationale, AI campus, éventuelle affiliation FT ou 2e lettre"
+    },
+    {
+      "id": "p2_morocco",
+      "label": "P2 — Maroc (fit produit DinaResearch)",
+      "purpose": "Traction terrain, partenaires, corpus local — pas substitut DRIEETS"
+    },
+    {
+      "id": "p3_greece_intl",
+      "label": "P3 — Grèce & international (base Athènes + bridge EU)",
+      "purpose": "Réseau local, soft landing Europe, preuves d’écosystème"
+    }
+  ],
+  "incubators": [
+    {
+      "id": "unitec",
+      "name": "Unitec",
+      "tier": "p0_visa",
+      "city": "Bordeaux",
+      "country": "FR",
+      "visa_path": "likely_ft_partner",
+      "fit": "Incubateur n°1 Bordeaux, filière numérique ; sans equity ; ancrage Nouvelle-Aquitaine = aligné Pépite Poitiers / M2IE.",
+      "why_dina": "Produit SaaS intel + AI à ancrer en NA ; Unitec valide innovation « numérique » pour dossier Founders.",
+      "website": "https://unitec.fr",
+      "apply_url": "https://unitec.fr/candidature",
+      "apply_form": "https://xrm3.eudonet.com/XRM/frm?lbl=dossier-contact-candidature&tok=6394AD0A&cs=bCtbt9G0wYrZJZxihl_z8rTg0zoJ5pqS&p=TnE-9_Miyf10BKMLXucwhxNksVdcQA8cXVsTwpsP5mw%3D",
+      "email": "projet@unitec.fr",
+      "email_alt": "contact@unitec.fr",
+      "phone": "+33 5 56 15 80 00",
+      "how_to_apply": [
+        "Télécharger / remplir le formulaire de candidature sur unitec.fr/candidature (ou lien Eudonet).",
+        "Envoyer le dossier à projet@unitec.fr.",
+        "Attendre contact start-up manager sous ~10 jours, puis comité (~toutes les 2 semaines).",
+        "Si acceptée : convention d’accompagnement (adhésion association, sans prise de participation)."
+      ],
+      "pitch_hooks": [
+        "Live : dinaresearchmaster.vercel.app — intel marché Maroc pour desks FR/EU",
+        "SNEE Pépite Nord-Aquitain (avis 13/10/2026) + M2IE IAE Poitiers",
+        "Roadmap AI : agents de veille, enrichment données, AEO"
+      ],
+      "priority": 1
+    },
+    {
+      "id": "technowest",
+      "name": "Bordeaux Technowest",
+      "tier": "p0_visa",
+      "city": "Bordeaux / métropole",
+      "country": "FR",
+      "visa_path": "likely_ft_partner",
+      "fit": "Technopole multi-sites ; filière Numérique ; programmes idéation → amorçage → accélération ; appels à projets réguliers.",
+      "why_dina": "Bon pour prouver innovation numérique + implantation métropole Bordelaise / NA.",
+      "website": "https://technowest.com",
+      "apply_url": "https://technowest.com/candidater/",
+      "email": null,
+      "phone": null,
+      "how_to_apply": [
+        "Aller sur technowest.com → « Candidater ».",
+        "Choisir le programme (idéation / amorçage / accélération) selon maturité produit (live = plutôt amorçage).",
+        "Suivre les appels à projets (Innogaronne, etc.) si dossier hors flux continu.",
+        "Joindre pitch DinaResearch + captures + plan AI."
+      ],
+      "pitch_hooks": [
+        "Produit live en production (Vercel)",
+        "Verticale Numérique / data / AI agents",
+        "Objectif soft landing France depuis Athènes"
+      ],
+      "priority": 2
+    },
+    {
+      "id": "hemera",
+      "name": "Héméra (Hventure / accélération mentors)",
+      "tier": "p0_visa",
+      "city": "Bordeaux (+ Limoges / réseau)",
+      "country": "FR",
+      "visa_path": "check_ft_list",
+      "fit": "Accélération opérationnelle par mentors entrepreneurs ; critère : équipe full-time, MVP, début commercialisation.",
+      "why_dina": "Si traction early (users/leads connect) — bon narrative « marché commencé ». Vérifier statut incubateur FT listé pour visa.",
+      "website": "https://www.hemera.camp",
+      "apply_url": "https://hemera.typeform.com/to/AkLPiA",
+      "email": null,
+      "phone": "+33 5 54 54 81 10",
+      "how_to_apply": [
+        "Remplir le Typeform de candidature Héméra (lien historique dossier).",
+        "Montrer MVP live + premiers retours marché / partenaires Maroc-EU.",
+        "Préciser besoin : ancrage FT / lettre / accompagnement founders.",
+        "Si non listé FT : demander explicitement lettre de soutien écosystème pour demarches Founders."
+      ],
+      "pitch_hooks": [
+        "MVP live + corpus éditorial Maroc",
+        "Besoin mentors commercialisation desks Europe"
+      ],
+      "priority": 3
+    },
+    {
+      "id": "village_ca_aquitaine",
+      "name": "Village by CA Aquitaine",
+      "tier": "p0_visa",
+      "city": "Bordeaux",
+      "country": "FR",
+      "visa_path": "likely_ft_partner",
+      "fit": "Accélérateur Crédit Agricole ; promotions annuelles (ex. recrutement promo via appels sept.) ; open innovation grands groupes.",
+      "why_dina": "Fit B2B intel / finance / banques Maroc (Attijariwafa etc. déjà dans corpus) + corporates FR.",
+      "website": "https://aquitaine.levillagebyca.com/",
+      "apply_url": "https://levillagebyca.com/le-village-by-ca-aquitaine-recrute-sa-promotion-2027/",
+      "email": null,
+      "phone": null,
+      "how_to_apply": [
+        "Surveiller l’appel à candidatures sur aquitaine.levillagebyca.com / levillagebyca.com (fenêtres type sept.).",
+        "Dossier startup en phase développement/accélération.",
+        "Pitch : intel marché + AI pour décideurs / corporates CA & partenaires Afrique–Méditerranée.",
+        "Si hors fenêtre : contacter via site / LinkedIn Village by CA Aquitaine pour lettre ou next promo."
+      ],
+      "pitch_hooks": [
+        "Couverture banques, capital, free zones Maroc",
+        "Open innovation corporate + data AI"
+      ],
+      "priority": 4
+    },
+    {
+      "id": "french_tech_bordeaux",
+      "name": "French Tech Bordeaux (Capitale)",
+      "tier": "p0_visa",
+      "city": "Bordeaux",
+      "country": "FR",
+      "visa_path": "capital_letter",
+      "fit": "Capitale French Tech — peut soutenir / orienter vers incubateurs partenaires et lettres visa Founders.",
+      "why_dina": "Voie « lettre Capitale » ou orientation incubateurs labellisés si pas encore acceptée en incubateur.",
+      "website": "https://www.frenchtechbordeaux.com/",
+      "apply_url": "https://www.frenchtechbordeaux.com/",
+      "email": null,
+      "phone": null,
+      "how_to_apply": [
+        "Contacter French Tech Bordeaux (site / LinkedIn) avec pitch 1 page + lien live.",
+        "Demander : orientation incubateur partenaire OU lettre de soutien Capitale pour French Tech Visa for Founders.",
+        "Copier Business France : welcometolafrenchtech@businessfrance.fr si besoin process national.",
+        "Joindre avis SNEE + pack data/project_pack/."
+      ],
+      "pitch_hooks": [
+        "Demande explicite voie Founders L.421-16 2°",
+        "Implantation cible Nouvelle-Aquitaine"
+      ],
+      "priority": 5
+    },
+    {
+      "id": "pepite_na",
+      "name": "Pépite Nord-Aquitain (Poitiers)",
+      "tier": "p0_visa",
+      "city": "Poitiers",
+      "country": "FR",
+      "visa_path": "ecosystem_letter",
+      "fit": "Déjà dans le parcours (SNEE). Peut fournir lettre écosystème FT (1 des 2 lettres) — ≠ attestation DRIEETS seule.",
+      "why_dina": "Lettre #1 naturelle ; combiner avec 2e acteur (incubateur / Capitale / entreprise FT).",
+      "website": "https://pepite-nordaquitain.pepitizy.fr",
+      "apply_url": "https://www.univ-poitiers.fr/espace-etudiant-e-s/lentrepreneuriat-grace-a-pepite",
+      "email": "pepite@univ-poitiers.fr",
+      "phone": null,
+      "how_to_apply": [
+        "Mail à pepite@univ-poitiers.fr : demander lettre de soutien écosystème French Tech pour dépôt Founders.",
+        "Joindre pitch, URL live, avis SNEE 13/10, intention D2E.",
+        "Clarifier que SNEE ≠ visa ; la lettre est pour demarches-simplifiees.",
+        "En parallèle candidater incubateur FT NA (Unitec / Technowest…)."
+      ],
+      "pitch_hooks": [
+        "Avis SNEE positif déjà obtenu",
+        "Projet « Dina's research » / marque DinaResearch"
+      ],
+      "priority": 6
+    },
+    {
+      "id": "business_france_ft",
+      "name": "Business France — Welcome to La French Tech",
+      "tier": "p0_visa",
+      "city": "National",
+      "country": "FR",
+      "visa_path": "process_help",
+      "fit": "Orientation officielle French Tech Visa for Founders (process, incubateurs, DRIEETS).",
+      "why_dina": "Point d’entrée administratif + confirmation liste incubateurs éligibles.",
+      "website": "https://welcome.businessfrance.fr/simplanter-en-france/recruter-des-talents-internationaux/visas-et-titres-de-sejour/les-statuts-des-dirigeants-etrangers/french-tech-visa-for-founders/",
+      "apply_url": "https://www.demarches-simplifiees.fr/commencer/french-tech-visa-for-founders",
+      "email": "welcometolafrenchtech@businessfrance.fr",
+      "phone": null,
+      "how_to_apply": [
+        "Écrire à welcometolafrenchtech@businessfrance.fr avec pitch + question liste incubateurs FT NA.",
+        "Une fois incubateur OU 2 lettres : déposer sur demarches-simplifiees french-tech-visa-for-founders.",
+        "Joindre PDF checklist Founders (Business France juil. 2026).",
+        "Ne pas déposer France-Visas Athènes avant attestation DRIEETS."
+      ],
+      "pitch_hooks": [
+        "Fondatrice non-UE basée Athènes",
+        "Projet innovant intel marché + AI"
+      ],
+      "priority": 7
+    },
+    {
+      "id": "station_f_founders",
+      "name": "STATION F — Founders Program",
+      "tier": "p1_france",
+      "city": "Paris",
+      "country": "FR",
+      "visa_path": "traction_maybe_letter",
+      "fit": "Flagship early-stage international ; desks payants ; aide admin/visa possible après acceptation (pas un visa en soi).",
+      "why_dina": "Crédibilité internationale + réseau ; utile lettres / narrative AI si F/ai aussi.",
+      "website": "https://stationf.co/programs",
+      "apply_url": "https://form.fillout.com/t/3cQWxL9oo1eu",
+      "email": null,
+      "phone": null,
+      "how_to_apply": [
+        "Candidater en anglais via le formulaire Founders (UsersOut).",
+        "Insister sur différenciation Maroc↔EU intel + roadmap AI.",
+        "Prévoir budget desks (~259 €/mois/desk selon guides 2026).",
+        "Après acceptation : demander invitation letter / orientation French Tech Visa."
+      ],
+      "pitch_hooks": [
+        "International founder (Athens → France)",
+        "Product live + AI roadmap"
+      ],
+      "priority": 10
+    },
+    {
+      "id": "station_f_fai",
+      "name": "STATION F — F/ai",
+      "tier": "p1_france",
+      "city": "Paris",
+      "country": "FR",
+      "visa_path": "traction_ai",
+      "fit": "Programme dédié AI ; partners internationaux.",
+      "why_dina": "Aligné avec l’ajout d’outils AI sur DinaResearch (agents, GenAI studio narrative).",
+      "website": "https://stationf.co/programs",
+      "apply_url": "https://stationf.usersout.com/t/nXZhsbTFYZeu",
+      "email": null,
+      "phone": null,
+      "how_to_apply": [
+        "Apply F/ai via lien Join sur stationf.co/programs.",
+        "Pitch centré couche AI (pas seulement éditorial) : agents de recherche marché, enrichment, AEO.",
+        "Montrer stack technique (Next/Prisma) + plan features AI.",
+        "Parallèle Founders si doute sur fit AI-only."
+      ],
+      "pitch_hooks": [
+        "AI-augmented market intelligence Maroc",
+        "AEO / llms.txt déjà en place"
+      ],
+      "priority": 11
+    },
+    {
+      "id": "station_f_um6p",
+      "name": "STATION F × UM6P Startup Program",
+      "tier": "p1_france",
+      "city": "Paris (+ Maroc)",
+      "country": "FR",
+      "visa_path": "bridge_africa_eu",
+      "fit": "Pont Europe–Afrique ; marchés, partenaires, investisseurs deux continents.",
+      "why_dina": "Fit produit Maroc maximal parmi programmes Station F.",
+      "website": "https://stationf.co/programs",
+      "apply_url": "https://stationfteam.notion.site/UM6P-Startup-Program-STATION-F-159b25275c9c8104bab7e18388b96990",
+      "email": null,
+      "phone": null,
+      "how_to_apply": [
+        "Ouvrir la page Notion UM6P Startup Program (lien Station F).",
+        "Suivre le process candidature indiqué (cohortes).",
+        "Pitch : desk France + profondeur data Maroc + AI.",
+        "Utiliser comme levier traction pour lettres FT, pas comme visa seul."
+      ],
+      "pitch_hooks": [
+        "Core market = Morocco",
+        "Bridge francophone EU"
+      ],
+      "priority": 12
+    },
+    {
+      "id": "agoranov",
+      "name": "Agoranov",
+      "tier": "p1_france",
+      "city": "Paris",
+      "country": "FR",
+      "visa_path": "check_ft_list",
+      "fit": "Incubateur science & tech (Digital / Health / Industry) ; process formulaire → comité.",
+      "why_dina": "Si angle « tech data / AI » fort ; moins géo-NA mais prestige Paris.",
+      "website": "https://www.agoranov.com/",
+      "apply_url": "https://www.agoranov.com/candidater",
+      "email": "courrier@agoranov.com",
+      "phone": "+33 1 44 18 07 15",
+      "how_to_apply": [
+        "Remplir le formulaire confidentiel sur agoranov.com/candidater.",
+        "Échanges + expertise éco/techno si éligible.",
+        "Pitch devant comité d’experts puis décision.",
+        "Convention d’incubation si OK."
+      ],
+      "pitch_hooks": [
+        "Verticale Digital",
+        "Innovation produit d’information structurée + AI"
+      ],
+      "priority": 13
+    },
+    {
+      "id": "wilco",
+      "name": "WILCO (Digital / SaaS)",
+      "tier": "p1_france",
+      "city": "Paris / IDF",
+      "country": "FR",
+      "visa_path": "traction",
+      "fit": "Accélération SaaS/tech ; programmes WILCO One Enterprise Software (AI-augmented SaaS).",
+      "why_dina": "Narrative SaaS B2B + AI ; souvent IDF — vérifier éligibilité géographique.",
+      "website": "https://www.wilco-ambitions.com/",
+      "apply_url": "https://www.wilco-ambitions.com/",
+      "email": null,
+      "phone": null,
+      "how_to_apply": [
+        "Surveiller appels WILCO One / WILCO Digital sur wilco-ambitions.com et LinkedIn.",
+        "Candidater aux Q&A / appels thématiques SaaS-IA.",
+        "Pitch structuration go-to-market desks Europe.",
+        "Demander si lettre écosystème FT possible."
+      ],
+      "pitch_hooks": [
+        "SaaS intel → AI-augmented",
+        "B2B founders / investors"
+      ],
+      "priority": 14
+    },
+    {
+      "id": "plugplay_morocco",
+      "name": "Plug and Play Morocco Accelerator (Technopark)",
+      "tier": "p2_morocco",
+      "city": "Casablanca",
+      "country": "MA",
+      "visa_path": "none_product_only",
+      "fit": "Accélérateur equity-free avec Technopark / MITC ; retail, smart cities, health, AI, fintech… ; cohortes (ex. applications fermées entre sessions).",
+      "why_dina": "Ancrage écosystème Maroc + corporates ; renforce claim marché local pour DRIEETS.",
+      "website": "https://www.plugandplaytechcenter.com/locations/casablanca/morocco-accelerator",
+      "apply_url": "https://www.plugandplaytechcenter.com/locations/casablanca/morocco-accelerator",
+      "email": null,
+      "phone": null,
+      "how_to_apply": [
+        "Consulter la page Morocco Accelerator (statut open/closed).",
+        "Suivre Technopark Maroc / Plug and Play Africa (LinkedIn, Facebook) pour prochaines cohortes.",
+        "Pitch AI + market intel + bridge diaspora/EU.",
+        "Ne pas compter ce programme pour attestation DRIEETS."
+      ],
+      "pitch_hooks": [
+        "Produit déjà centré Maroc",
+        "AI + data for corporates / investors"
+      ],
+      "priority": 20
+    },
+    {
+      "id": "technopark_ma",
+      "name": "Technopark Maroc (MITC)",
+      "tier": "p2_morocco",
+      "city": "Casablanca / Rabat / Tanger",
+      "country": "MA",
+      "visa_path": "none_product_only",
+      "fit": "Incubateur tech public ; bureaux, mentoring, export ; hôte Plug and Play Morocco.",
+      "why_dina": "Présence institutionnelle Maroc ; networking corpus (free zones, initiatives).",
+      "website": "https://www.technopark.ma/",
+      "apply_url": "https://www.technopark.ma/",
+      "email": null,
+      "phone": null,
+      "how_to_apply": [
+        "Contacter Technopark via site / pages candidature incubateur.",
+        "Demander hébergement / programme startups tech Casablanca.",
+        "Proposer partenariat data / visibility DinaResearch sur écosystème.",
+        "Coordonner avec Plug and Play si cohorte ouverte."
+      ],
+      "pitch_hooks": [
+        "Couverture initiatives & free zones",
+        "Partenariat contenu / intel"
+      ],
+      "priority": 21
+    },
+    {
+      "id": "lafactory",
+      "name": "LaFactory (OCP Group)",
+      "tier": "p2_morocco",
+      "city": "Casablanca",
+      "country": "MA",
+      "visa_path": "none_product_only",
+      "fit": "Accélérateur OCP ; programmes courts, mentoring equity-free, liens Intelaka.",
+      "why_dina": "Réseau grand groupe Maroc ; utile partenaires / crédibilité locale.",
+      "website": "https://www.lafactory.ma/",
+      "apply_url": "https://www.lafactory.ma/",
+      "email": null,
+      "phone": null,
+      "how_to_apply": [
+        "Vérifier appels à candidatures sur lafactory.ma.",
+        "Pitch impact data / innovation écosystème.",
+        "Demander programme accélération ou partnership.",
+        "Archiver acceptation comme preuve traction Maroc (dossier visa)."
+      ],
+      "pitch_hooks": [
+        "Market intel for industrial / innovation ecosystem"
+      ],
+      "priority": 22
+    },
+    {
+      "id": "impact_lab",
+      "name": "IMPACT Lab",
+      "tier": "p2_morocco",
+      "city": "Casablanca / Marrakech",
+      "country": "MA",
+      "visa_path": "none_product_only",
+      "fit": "Impact / SDG / govtech ; grants EU–Maroc ; 120+ startups accompagnées.",
+      "why_dina": "Si angle données publiques / initiatives / programmes (déjà un domaine éditorial).",
+      "website": "https://impactlab.ma/",
+      "apply_url": "https://impactlab.ma/",
+      "email": null,
+      "phone": null,
+      "how_to_apply": [
+        "Candidater via impactlab.ma (contact / apply).",
+        "Lier domaines Initiatives & Programs de DinaResearch aux ODD.",
+        "Demander mentoring / grants si éligible.",
+        "Utiliser pour lettres partenaires Maroc (pas FT)."
+      ],
+      "pitch_hooks": [
+        "Initiatives & programs coverage",
+        "Data for public / impact actors"
+      ],
+      "priority": 23
+    },
+    {
+      "id": "founder_institute_rabat",
+      "name": "Founder Institute — Morocco / Rabat",
+      "tier": "p2_morocco",
+      "city": "Rabat",
+      "country": "MA",
+      "visa_path": "none_product_only",
+      "fit": "Programme pre-seed / idea-stage mondial ; éditions Morocco–MENA.",
+      "why_dina": "Utile si cohorte ouverte pour discipline founders + réseau MENA (produit déjà live = vérifier fit stage).",
+      "website": "https://fi.co/",
+      "apply_url": "https://fi.co/apply",
+      "email": null,
+      "phone": null,
+      "how_to_apply": [
+        "fi.co/apply — sélectionner chapitre Morocco / Rabat si disponible.",
+        "Clarifier stage (post-MVP) pour éviter mismatch idea-only.",
+        "Network MENA pour distribution contenu."
+      ],
+      "pitch_hooks": [
+        "Morocco–MENA market intel"
+      ],
+      "priority": 24
+    },
+    {
+      "id": "egg_greece",
+      "name": "egg — enter•grow•go (Eurobank / Corallia)",
+      "tier": "p3_greece_intl",
+      "city": "Athènes",
+      "country": "GR",
+      "visa_path": "none_local",
+      "fit": "Accélérateur grec majeur ; 12 mois ; base Athènes.",
+      "why_dina": "Renforce ancrage local pendant montage visa FR ; réseau investisseurs GR.",
+      "website": "https://www.theegg.gr/en/",
+      "apply_url": "https://www.theegg.gr/en/",
+      "email": null,
+      "phone": null,
+      "how_to_apply": [
+        "Consulter conditions sur theegg.gr et candidater à la promo ouverte.",
+        "Pitch dual : build from Athens, scale market intel Maroc→EU via France.",
+        "Ne pas confondre avec titre séjour France."
+      ],
+      "pitch_hooks": [
+        "Founder based in Athens",
+        "International expansion France"
+      ],
+      "priority": 30
+    },
+    {
+      "id": "elevate_greece",
+      "name": "Elevate Greece",
+      "tier": "p3_greece_intl",
+      "city": "National GR",
+      "country": "GR",
+      "visa_path": "none_local",
+      "fit": "Registre officiel startups grecques / plateforme État.",
+      "why_dina": "Accréditation startup GR = crédibilité locale pendant soft landing.",
+      "website": "https://elevategreece.gov.gr/",
+      "apply_url": "https://elevategreece.gov.gr/",
+      "email": null,
+      "phone": null,
+      "how_to_apply": [
+        "Créer dossier sur elevategreece.gov.gr pour accréditation startup.",
+        "Joindre SIREN/équivalent GR si société locale, ou structure prévue.",
+        "Complément dossier Athènes / narrative consulaire."
+      ],
+      "pitch_hooks": [
+        "Official Greek startup registry"
+      ],
+      "priority": 31
+    },
+    {
+      "id": "antler",
+      "name": "Antler (global residency)",
+      "tier": "p3_greece_intl",
+      "city": "Multi (EU hubs)",
+      "country": "INTL",
+      "visa_path": "none_vc",
+      "fit": "VC residency early-stage mondial ; hubs européens.",
+      "why_dina": "Si recherche co-fondateur tech AI / capital pre-seed — pas visa FR.",
+      "website": "https://www.antler.co/",
+      "apply_url": "https://www.antler.co/apply",
+      "email": null,
+      "phone": null,
+      "how_to_apply": [
+        "Postuler via antler.co/apply au hub EU pertinent.",
+        "Pitch AI market intel + founder profile Deloitte.",
+        "Clarifier priorité implantation France (Talent) vs residency Antler."
+      ],
+      "pitch_hooks": [
+        "AI layer hiring / co-build"
+      ],
+      "priority": 32
+    }
+  ],
+  "email_template_fr": "Objet : Candidature / soutien — DinaResearch (intel marché Maroc + AI) · French Tech Founders\n\nBonjour,\n\nJe suis Dina Bouabdallah, fondatrice de DinaResearch (https://dinaresearchmaster.vercel.app), plateforme d’intelligence de marché Maroc (entreprises, capital, startups, initiatives, events). Produit live (Next.js / Prisma / Vercel) ; roadmap d’outils et agents AI.\n\nParcours : M2IE IAE Poitiers (FAD) · SNEE Pépite Nord-Aquitain (avis favorable 13/10/2026) · basée à Athènes (non-UE).\n\nObjectif : ancrage French Tech Nouvelle-Aquitaine / France pour développer le projet (Talent — projet innovant L.421-16 2°).\n\nJe souhaite : [intégrer votre programme / obtenir une lettre de soutien écosystème / être orientée vers un incubateur partenaire FT].\n\nPitch 1 page et pack disponibles sur demande. Contact : hello@dinaresearch.com · dinabouabdallah08@gmail.com\n\nCordialement,\nDina Bouabdallah"
+}

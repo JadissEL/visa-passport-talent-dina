@@ -1,0 +1,60 @@
+{
+  "updated_at": "2026-10-25",
+  "note": "Statuts opérationnels — à mettre à jour au fur et à mesure. Pas un inventaire consulaire exhaustif.",
+  "items": [
+    {
+      "id": "pitch_pack",
+      "label": "Pack DinaResearch (pitch 1 page + captures live)",
+      "status": "partial",
+      "note": "Pitch OK — il manque des captures d’écran du site live à joindre aux candidatures"
+    },
+    {
+      "id": "snee_archive",
+      "label": "Archiver avis SNEE 13/10/2026 (PDF / mail)",
+      "status": "todo",
+      "note": "Avis étudiant-entrepreneur Pépite (compte DIN6AC843CA) — preuve de sérieux, pas un visa"
+    },
+    {
+      "id": "incubators",
+      "label": "Candidatures incubateurs FT NA (ou 2 lettres écosystème)",
+      "status": "todo",
+      "note": "Héméra / Unitec / Technowest / Village by CA — demander confirmation écrite « partenaire FT Visa Founders »"
+    },
+    {
+      "id": "drieets",
+      "label": "Dépôt demarches → attestation d’innovation (DRIEETS)",
+      "status": "todo",
+      "note": "Document État obligatoire pour le Talent innovant (Founders) — sans ça, Athènes reste bloqué"
+    },
+    {
+      "id": "d2e",
+      "label": "Inscription D2E (rentrée admin Pépite 3 nov)",
+      "status": "todo",
+      "note": "Diplôme / parcours étudiant-entrepreneur — pas encore inscrit au 24/10 ; les scores du site font comme si oui"
+    },
+    {
+      "id": "uncle_docs",
+      "label": "Pack ressources (garant / hébergement) — sans prêt 22 k€",
+      "status": "todo",
+      "note": "Prise en charge + preuves de revenus du garant (ou ressources propres). Pas un emprunt à l’oncle — voir Plan chances"
+    },
+    {
+      "id": "iae_presence",
+      "label": "Attestation IAE de présence (filet visa études)",
+      "status": "todo",
+      "note": "Master en formation à distance (FAD) : sans preuve de présence obligatoire → visa études fragile (Lespe / Moinet)"
+    },
+    {
+      "id": "athens",
+      "label": "France-Visas Athènes + RDV mail (après DRIEETS)",
+      "status": "blocked",
+      "note": "Dépend de l’attestation DRIEETS · frais visa ~99 €"
+    },
+    {
+      "id": "createur_30k",
+      "label": "Plan B Talent créateur (≥ 30 000 €)",
+      "status": "n_a",
+      "note": "Autre mention légale — seulement si 30 k€ d’investissement prouvables (pas requis pour Founders)"
+    }
+  ]
+}

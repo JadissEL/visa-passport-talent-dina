@@ -1,0 +1,385 @@
+{
+  "generated_at": "2026-10-24",
+  "account": "dinabouabdallah08@gmail.com",
+  "categories": {
+    "iae_admission": {
+      "label": "IAE Poitiers — Admission & inscription M2IE FAD",
+      "emails": [
+        {
+          "date": "2026-06-14",
+          "from": "no-reply.ecandidat@univ-poitiers.fr",
+          "subject": "Création de votre compte de candidature / Candidature Université de Poitiers",
+          "thread_id": "19ec7c7210d2dd77",
+          "summary": "Création compte e-Candidat puis dépôt candidature M2IE."
+        },
+        {
+          "date": "2026-06-15",
+          "from": "no-reply.ecandidat@univ-poitiers.fr",
+          "subject": "Votre candidature — Dossier transmis",
+          "thread_id": "19ecce3f91a77767",
+          "summary": "Dossier transmis à l'université."
+        },
+        {
+          "date": "2026-06-16",
+          "from": "no-reply.ecandidat@univ-poitiers.fr",
+          "subject": "Votre candidature — dossier complet",
+          "thread_id": "19ecee624f44be57",
+          "summary": "Dossier déclaré complet."
+        },
+        {
+          "date": "2026-06-24",
+          "from": "no-reply.ecandidat@univ-poitiers.fr",
+          "subject": "Avis Favorable à votre candidature à l'Université de Poitiers",
+          "thread_id": "19ef8b636e4917a5",
+          "summary": "AVIS FAVORABLE M2 Intelligence Économique — FAD. Confirmer sur e-Candidat. Directeur IAE : Benjamin DREVETON. Commission M2IE FAD.",
+          "key": true,
+          "attachments_note": null
+        },
+        {
+          "date": "2026-06-25",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "Admission M2IE",
+          "thread_id": "19eff12b1c44a27a",
+          "summary": "Confirmation admission M2IE FAD + instruction de confirmer sur e-Candidat.",
+          "key": true
+        },
+        {
+          "date": "2026-06-25",
+          "from": "no-reply.ecandidat@univ-poitiers.fr",
+          "subject": "Confirmation de candidature",
+          "thread_id": "19eff649b62f0716",
+          "summary": "Confirmation administrative candidature."
+        },
+        {
+          "date": "2026-07-01",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "inscriptions M2IE",
+          "thread_id": "19f1c8c709c17468",
+          "summary": "Suite inscriptions M2IE."
+        },
+        {
+          "date": "2026-07-07",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "Documents nécessaires pour votre inscription M2IE",
+          "thread_id": "19f3d229d2f048bb",
+          "summary": "Liste documents pour inscription administrative."
+        },
+        {
+          "date": "2026-07-18",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "Finalisation de votre inscription — Questionnaire",
+          "thread_id": "19f75b904bbd198b",
+          "summary": "Questionnaire finalisation inscription."
+        },
+        {
+          "date": "2026-07-22",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "Envoi de votre contrat de formation — Signature et modalités",
+          "thread_id": "19f8865c35a9ffd8",
+          "summary": "Contrat de formation FAD à signer."
+        },
+        {
+          "date": "2026-07-24",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "Envoi de votre contrat de formation — Signature et modalités d'inscription",
+          "thread_id": "19f930933b734347",
+          "summary": "Relance / suite contrat formation."
+        },
+        {
+          "date": "2026-08-03",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "Invitation 1er regroupement FAD à l'IAE de Poitiers",
+          "thread_id": "19fc7a4583ad9d6f",
+          "summary": "Invitation 1er regroupement présentiel / hybride FAD."
+        },
+        {
+          "date": "2026-08-19",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "Financement Formation à Distance / Bourses sur critères sociaux",
+          "thread_id": "1a0193cb60f54a34",
+          "summary": "Infos financement FAD et bourses."
+        },
+        {
+          "date": "2026-08-28",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "Point sur votre formation et son financement",
+          "thread_id": "1a047a0f0687448a",
+          "summary": "Point financement formation."
+        },
+        {
+          "date": "2026-09-06",
+          "from": "paiement.support@univ-poitiers.fr",
+          "subject": "[PAIEMENT-UP] Confirmation de votre inscription / paiement",
+          "thread_id": "1a07900b05bd0578",
+          "summary": "Première vague confirmations paiement / inscription en ligne."
+        },
+        {
+          "date": "2026-09-07",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "FAD — Finalisation de votre inscription / Journée de rentrée FAD M2IE",
+          "thread_id": "1a07bc4549750389",
+          "summary": "Finalisation inscription + questionnaire présence rentrée."
+        },
+        {
+          "date": "2026-09-09",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "Finalisation de votre inscription FAD",
+          "thread_id": "1a086a0d6aa55fcb",
+          "summary": "Suite finalisation inscription FAD."
+        },
+        {
+          "date": "2026-09-11",
+          "from": "paiement.support@univ-poitiers.fr",
+          "subject": "[PAIEMENT-UP] Confirmation de votre inscription",
+          "thread_id": "1a09270454762873",
+          "summary": "Inscription coût pédagogique 1ère échéance 2026/2027 — 1 400 € — ticket 2651390773. Nom Bouabdallah / Prénom Dina.",
+          "key": true
+        },
+        {
+          "date": "2026-09-14",
+          "from": "sel@univ-poitiers.fr",
+          "subject": "Bienvenue à l'université de Poitiers",
+          "thread_id": "1a09f4158faa9080",
+          "summary": "Bienvenue compte universitaire."
+        },
+        {
+          "date": "2026-09-14",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "Bienvenue à l'IAE de Poitiers — Informations de rentrée",
+          "thread_id": "1a0a062ea7f89049",
+          "summary": "Infos pratiques rentrée IAE.",
+          "key": true
+        },
+        {
+          "date": "2026-09-14",
+          "from": "dinabouabdallah08@gmail.com",
+          "subject": "Demande de financement — 2e et 3e tranches des frais de scolarité",
+          "thread_id": "1a0a064da1f532bf",
+          "summary": "Dina demande étalement / financement 2e et 3e tranches."
+        },
+        {
+          "date": "2026-09-17",
+          "from": "noreply@univ-poitiers.fr",
+          "subject": "Compte SEL / double authentification",
+          "thread_id": "1a0b0fb6c9221862",
+          "summary": "Activation compte SEL université."
+        },
+        {
+          "date": "2026-09-18",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "Informations importantes — certificat de scolarité et adresse mail étudiante",
+          "thread_id": "1a0b49ede09f5095",
+          "summary": "Certificat scolarité + mail étudiant.",
+          "key": true
+        },
+        {
+          "date": "2026-09-20",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "Envoi du document en PDF Certificat de scolarité",
+          "thread_id": "1a0be0d67be38855",
+          "summary": "Retard PDF certificat ; correction date de naissance ; usage mail étudiant."
+        },
+        {
+          "date": "2026-09-20",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "Rentrée FAD 12 octobre 2026 IMPORTANT SVP",
+          "thread_id": "1a0be99f4020cbcb",
+          "summary": "Rentrée FAD fixée au 12 octobre 2026."
+        },
+        {
+          "date": "2026-09-21",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "Certificat de scolarité",
+          "thread_id": "1a0c41fcfa4c09ee",
+          "summary": "Certificat de scolarité éditable en PDF via IRIS.",
+          "key": true
+        },
+        {
+          "date": "2026-09-29",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "COMPTE UNIVERSITE / Aides financières FAD",
+          "thread_id": "1a0ed07f7c914d7c",
+          "summary": "Compte univ + aides financières FAD (deadline 22 oct)."
+        },
+        {
+          "date": "2026-10-03",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "package",
+          "thread_id": "1a10216f84672d09",
+          "summary": "Envoi package pédagogique TNT — PJ « 1 BOUABDALLAH M2IE.pdf ».",
+          "key": true,
+          "attachments": ["1 BOUABDALLAH M2IE.pdf"]
+        },
+        {
+          "date": "2026-10-03",
+          "from": "shipment@mail.tnt.com",
+          "subject": "TNT shipment notification for 169687175",
+          "thread_id": "1a10215d54e6faac",
+          "summary": "Colis TNT Université de Poitiers → livraison prévue 7 oct 2026."
+        },
+        {
+          "date": "2026-10-05",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "Votre rentrée à l'IAE — Informations pratiques",
+          "thread_id": "1a10b20f3a78d5e2",
+          "summary": "Consulter mail étu.univ ; portail IRIS ; site FAD."
+        },
+        {
+          "date": "2026-10-07",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "RAPPEL IMPORTANT — Aides financières FAD 2026-2027 — date limite 22 octobre",
+          "thread_id": "1a11548d0453265d",
+          "summary": "Aide financière FAD sur critères sociaux ; prérequis : droits univ + 1ère échéance coût pédagogique payés."
+        },
+        {
+          "date": "2026-10-08",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "Information importante — Utilisation de votre adresse mail universitaire",
+          "thread_id": "1a11b36b8c3dd3f4",
+          "summary": "Communications désormais sur @etu.univ."
+        },
+        {
+          "date": "2026-10-09",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "Liens pour la rentrée et les cours de la semaine prochaine",
+          "thread_id": "1a11f3fb3a6d52cd",
+          "summary": "Liens rentrée / cours envoyés sur mail universitaire."
+        },
+        {
+          "date": "2026-10-10",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "Information FAD",
+          "thread_id": "1a12532b5f371257",
+          "summary": "Activation Webex + plateforme UPDAGO (cours, devoirs, calendriers)."
+        },
+        {
+          "date": "2026-10-12",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "lien webex",
+          "thread_id": "1a1300ff06ea421b",
+          "summary": "Regroupement M2IE FAD 12–15 octobre 2026 (liens Webex détaillés, responsable filière M. Moinet).",
+          "key": true
+        },
+        {
+          "date": "2026-10-15",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "Envoi de votre carte étudiante",
+          "thread_id": "1a13e2a84a4cf902",
+          "summary": "Carte étudiante prête ; risque non-arrivée à l'étranger ; demande adresse en France.",
+          "key": true
+        },
+        {
+          "date": "2026-10-21",
+          "from": "nadine.lespe@univ-poitiers.fr",
+          "subject": "Utilisation de votre adresse e-mail universitaire",
+          "thread_id": "1a15d3431ba5d121",
+          "summary": "Rappel signature mail : nom, formation, n° étudiant."
+        }
+      ]
+    },
+    "pepite_snee_d2e": {
+      "label": "PEPITE / SNEE / D2E / Bpifrance",
+      "emails": [
+        {
+          "date": "2026-10-09",
+          "from": "ne-pas-repondre@snee.esr.gouv.fr",
+          "subject": "Activation de votre compte sur la Plateforme SNEE",
+          "thread_id": "1a11e48d0fd36490",
+          "summary": "Compte SNEE créé — identifiant DIN6AC843CA.",
+          "key": true
+        },
+        {
+          "date": "2026-10-11",
+          "from": "ne-pas-repondre@snee.esr.gouv.fr",
+          "subject": "Confirmation d'envoi de votre candidature au Statut National Etudiant-Entrepreneur",
+          "thread_id": "1a12c828643f25d8",
+          "summary": "Candidature envoyée au Pépite Nord-Aquitain. N° candidature 6AC845699E9. Contact pepite_nord_aquitain@groupes.renater.fr. RP informé : nicolas.moinet@univ-poitiers.fr.",
+          "key": true
+        },
+        {
+          "date": "2026-10-12",
+          "from": "rachel.jeannot@univ-poitiers.fr",
+          "cc": "pepite@univ-poitiers.fr",
+          "subject": "commission SNEE Mardi 13 octobre 2026",
+          "thread_id": "1a12f6c9e7b58719",
+          "summary": "Convocation commission SNEE visio 13/10/2026 — 10 min (5 présentation + 5 échange).",
+          "key": true
+        },
+        {
+          "date": "2026-10-12",
+          "from": "pepite@univ-poitiers.fr",
+          "subject": "INSCRIPTION candidature SNEE — 24h pour créer — 20/21 novembre 2026",
+          "thread_id": "1a130a923b53ab8f",
+          "summary": "Invitation bootcamp Bpifrance 24h pour créer (Poitiers) dans le cadre SNEE.",
+          "key": true
+        },
+        {
+          "date": "2026-10-13",
+          "from": "rachel.jeannot@univ-poitiers.fr",
+          "cc": "pepite@univ-poitiers.fr",
+          "subject": "Statut National Etudiant Entrepreneur — Rentrée",
+          "thread_id": "1a13596aa342fb3a",
+          "summary": "COMMISSION POSITIVE SNEE 2026/2027. Rentrée admin Poitiers : mardi 3 nov 13h30 (B25 Bis, 4 rue Marcel Doré). D2E OPTIONNEL : dossier complet requis (charte, inscription, CVEC, ID, JDC, diplômes, 300€ non-boursier). PJ : dossier inscription.pdf. Lien 24h pour créer.",
+          "key": true,
+          "critical_note": "D2E n'est PAS encore inscrit — à finaliser. Ne pas écrire « inscrite au D2E » tant que le dossier n'est pas validé.",
+          "attachments": ["dossier inscription.pdf"]
+        },
+        {
+          "date": "2026-10-14",
+          "from": "m.yahiaoui@psbedu.paris",
+          "subject": "Votre pré-inscription aux « 24h Pour Créer de Bpifrance » / 6ème Édition 20&21 novembre",
+          "thread_id": "1a13938bc641c06f",
+          "summary": "Pré-inscription confirmée Créathon Poitiers (Nouvelle-Aquitaine). Caution 24€ via Weezevent à venir. WhatsApp groupe préinscrits.",
+          "key": true
+        }
+      ]
+    },
+    "visa_consulat": {
+      "label": "Visa / Consulat Athènes — Talent projet innovant",
+      "emails": [
+        {
+          "date": "2026-10-20",
+          "from": "dinabouabdallah08@gmail.com",
+          "to": "admin-etrangers.athenes-amba@diplomatie.gouv.fr",
+          "bcc": ["athenes.consul-france@diplomatie.gouv.fr", "contact.athenes-amba@diplomatie.gouv.fr"],
+          "subject": "Demande de renseignements — Visa Long Séjour « Talent – Porteur de projet innovant »",
+          "thread_id": "1a158565d22d8991",
+          "summary": "Dina présente parcours (ENCG, Deloitte, M2IE FAD, SNEE, projet Dina's research). Questions : Vevaiosi, prise en charge oncle FR, liste pièces, RDV France-Visas.",
+          "key": true,
+          "critical_note": "Le mail affirme être « inscrite au D2E » — contredit par le mail SNEE du 13/10 qui ouvre encore l'inscription D2E. À corriger avant tout dépôt officiel."
+        },
+        {
+          "date": "2026-10-20",
+          "from": "admin-etrangers.athenes-amba@diplomatie.gouv.fr",
+          "subject": "Re: … Talent – Porteur de projet innovant (accusé + guide procédure)",
+          "thread_id": "1a158565d22d8991",
+          "summary": "Réponse type : Vevaiosi (blue paper) ne permet PAS voyage Schengen sans visa. VLS obligatoire >90j. Procédure : France-Visas → RDV par mail avec ref formulaire. Délai ~6 semaines. Dossier incomplet = refus possible.",
+          "key": true
+        },
+        {
+          "date": "2026-10-20",
+          "from": "athenes.consul-france@diplomatie.gouv.fr",
+          "subject": "Re: … (accusé automatique)",
+          "thread_id": "1a158565d22d8991",
+          "summary": "Accusé auto + liens site consulat."
+        },
+        {
+          "date": "2026-10-23",
+          "from": "admin-etrangers.athenes-amba@diplomatie.gouv.fr",
+          "subject": "RE: … Talent – Porteur de projet innovant",
+          "thread_id": "1a158565d22d8991",
+          "summary": "Suite : étapes France-Visas + RDV. IMPORTANT : « en principe les récépissés de renouvellement de titre de séjour sont acceptés pour le dépôt d'une demande de visa long séjour ». Pas de liste pièces Talent personnalisée.",
+          "key": true
+        }
+      ]
+    }
+  },
+  "gaps_and_alerts": [
+    "D2E : pas encore inscrit — seulement ouvert si dossier complet à la rentrée admin PEPITE.",
+    "Formation FAD (distance) : argument faible / souvent non éligible pour VLS-TS Études « présence ».",
+    "Mail Consulat du 20/10 sur-affirme D2E — corriger.",
+    "Carte étudiante : risque non réception hors France — fournir adresse FR.",
+    "Consulat n'a pas confirmé la prise en charge oncle ni la liste exhaustive Talent.",
+    "Attestation officielle « projet innovant » d'un organisme reconnu (au-delà SNEE) à obtenir si possible (PEPITE / Bpifrance / incubateur)."
+  ]
+}

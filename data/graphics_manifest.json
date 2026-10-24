@@ -1,0 +1,72 @@
+{
+  "generated_by": "scripts/generate_graphics.py",
+  "outdir": "assets/charts",
+  "charts": {
+    "scores_pathways": {
+      "file": "scores_pathways.png",
+      "panels": [
+        "panel-home",
+        "panel-decide"
+      ],
+      "caption": "Comparaison des scores Talent / Études / Créateur (hypothèse D2E)."
+    },
+    "rails_abc": {
+      "file": "rails_abc.png",
+      "panels": [
+        "panel-home"
+      ],
+      "caption": "Trois rails possibles — A prioritaire, B filet, C plan B."
+    },
+    "flow_founders": {
+      "file": "flow_founders.png",
+      "panels": [
+        "panel-home",
+        "panel-eco"
+      ],
+      "caption": "Séquence bloquante : écosystème → attestation DRIEETS → Athènes → France."
+    },
+    "criteria_talent": {
+      "file": "criteria_talent.png",
+      "panels": [
+        "panel-decide"
+      ],
+      "caption": "Détail des critères Talent — le frein principal est l’avis / attestation DRIEETS."
+    },
+    "checklist_status": {
+      "file": "checklist_status.png",
+      "panels": [
+        "panel-do"
+      ],
+      "caption": "État des pièces opérationnelles (hors plan B N/A)."
+    },
+    "fees_thresholds": {
+      "file": "fees_thresholds.png",
+      "panels": [
+        "panel-do"
+      ],
+      "caption": "Seuils € et frais Founders — aussi dans Références utiles."
+    },
+    "trois_portes": {
+      "file": "trois_portes.png",
+      "panels": [
+        "panel-eco"
+      ],
+      "caption": "Trois portes d’entrée écosystème avant le dépôt demarches DRIEETS."
+    },
+    "timeline_softlanding": {
+      "file": "timeline_softlanding.png",
+      "panels": [
+        "panel-angles",
+        "panel-home"
+      ],
+      "caption": "Planning indicatif ~4–6 mois (semaines) — soft landing."
+    },
+    "plan_levers": {
+      "file": "plan_levers.png",
+      "panels": [
+        "panel-plan90"
+      ],
+      "caption": "Priorité d’effort : attestation DRIEETS + porte écosystème — pas « trouver 22 k€ »."
+    }
+  }
+}
